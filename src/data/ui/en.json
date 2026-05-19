@@ -305,10 +305,7 @@
   "get_on_google_play": "Get it on Google Play",
   "geust_title": "Guest's Blessing",
   "goodCustomMorning": "It is a good custom to say this every morning",
-  "google_api_key": "AIzaSyDhi_WRTqiKp_7_NEqlzpmL_3e7sg3_dIY",
-  "google_app_id": "1:588019731888:android:ccec3ff4b66088c2",
-  "google_crash_reporting_api_key": "AIzaSyDhi_WRTqiKp_7_NEqlzpmL_3e7sg3_dIY",
-  "google_storage_bucket": "bold-guru-770.appspot.com",
+
   "gps_failure": "Couldn't find your current location",
   "gps_summary": "The application will determine your location according to phone's reported location.",
   "gps_title": "Automatic Location",
