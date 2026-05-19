@@ -1,0 +1,4466 @@
+{
+  "sfarad": {
+    "1": [
+      {
+        "id": "ashrei",
+        "title": "ashreiTitle",
+        "text": "ashrei",
+        "addToMenu": true
+      },
+      {
+        "id": "igdalNa",
+        "text": "ptihaSlihot"
+      },
+      {
+        "id": "firstKadish",
+        "text": "HATZI",
+        "exapnd": "NONE"
+      },
+      {
+        "id": "lechaHashem",
+        "title": "amidaSofTitle",
+        "text": "lechaHshemSfarad"
+      },
+      {
+        "id": "motsaeiMenucha",
+        "title": "pticha{1}",
+        "text": "slihaMotzash",
+        "addToMenu": true
+      },
+      {
+        "id": "firstYag",
+        "title": "yagTitle",
+        "text": "yagSlihotSfarad",
+        "addToMenu": true
+      },
+      {
+        "id": "afterFirstYag",
+        "text": "bokerTishmaAfterYag"
+      },
+      {
+        "id": "einMiIkraBetsedek",
+        "title": "slicha{2}",
+        "text": "einMiIkraBetsedek",
+        "addToMenu": true
+      },
+      {
+        "id": "elMelech1",
+        "title": "elMelechTitle",
+        "text": "elMelechSfarad"
+      },
+      {
+        "id": "afterElMelechSfarad11",
+        "text": "afterElMelech1"
+      },
+      {
+        "id": "shavatHinun",
+        "title": "slicha{3}",
+        "text": "shavatHinun",
+        "addToMenu": true
+      },
+      {
+        "id": "elMelech2",
+        "title": "elMelechTitle",
+        "text": "elMelechSfarad"
+      },
+      {
+        "id": "lishomaElHarina",
+        "title": "pizmon{4}",
+        "text": "lishomaElHarina",
+        "addToMenu": true
+      },
+      {
+        "id": "elMelech3",
+        "title": "elMelechTitle",
+        "text": "elMelechSfarad"
+      },
+      {
+        "id": "afterElMelech_2",
+        "text": "afterElMelech_2"
+      },
+      {
+        "id": "shmaKolenu",
+        "title": "shmaKolenuSlihotTitle",
+        "text": "shmaKolenuSlihot",
+        "addToMenu": true
+      },
+      {
+        "id": "viduy",
+        "title": "viduyTitle",
+        "text": "viduySlichotSfarad",
+        "addToMenu": true
+      },
+      {
+        "id": "elRachum",
+        "title": "elRahumTitle",
+        "text": "elRahumSfarad"
+      },
+      {
+        "id": "anenu",
+        "title": "anenuSlichotTitle",
+        "text": "anenuSlihotSfarad"
+      },
+      {
+        "id": "miSheana",
+        "title": "miSheanaTitle",
+        "text": "miSheana"
+      },
+      {
+        "id": "nefilat",
+        "title": "tahanunTitle",
+        "text": "nefilatSlihot"
+      },
+      {
+        "id": "slihotSof",
+        "text": "slihotSof"
+      },
+      {
+        "id": "vanachnuLoNeda",
+        "text": "vanachnuLoNeda"
+      },
+      {
+        "id": "lastKadish",
+        "text": "TITKABAL",
+        "exapnd": "NONE"
+      }
+    ],
+    "2": [
+      {
+        "id": "ashrei",
+        "title": "ashreiTitle",
+        "text": "ashrei",
+        "addToMenu": true
+      },
+      {
+        "id": "igdalNa",
+        "text": "ptihaSlihot"
+      },
+      {
+        "id": "firstKadish",
+        "text": "HATZI",
+        "exapnd": "NONE"
+      },
+      {
+        "id": "lechaHashem",
+        "title": "amidaSofTitle",
+        "text": "lechaHshemSfarad"
+      },
+      {
+        "id": "firstYag",
+        "title": "yagTitle",
+        "text": "yagSlihotSfarad",
+        "addToMenu": true
+      },
+      {
+        "id": "afterFirstYag",
+        "text": "mikveIsraelAfterYag"
+      },
+      {
+        "id": "imAvonenuRabu",
+        "title": "slicha{5}",
+        "text": "imAvonenuRabu",
+        "addToMenu": true
+      },
+      {
+        "id": "elMelech1",
+        "title": "elMelechTitle",
+        "text": "elMelechSfarad"
+      },
+      {
+        "id": "afterElMelechSfarad21",
+        "text": "afterElMelechSfarad21"
+      },
+      {
+        "id": "einKemidat",
+        "title": "slicha{6}",
+        "text": "einKemidat",
+        "addToMenu": true
+      },
+      {
+        "id": "elMelech2",
+        "title": "elMelechTitle",
+        "text": "elMelechSfarad"
+      },
+      {
+        "id": "malacheyRahamim",
+        "title": "pizmon{7}",
+        "text": "malacheyRahamim",
+        "addToMenu": true
+      },
+      {
+        "id": "elMelech3",
+        "title": "elMelechTitle",
+        "text": "elMelechSfarad"
+      },
+      {
+        "id": "afterElMelech_2",
+        "text": "afterElMelech_2"
+      },
+      {
+        "id": "shmaKolenu",
+        "title": "shmaKolenuSlihotTitle",
+        "text": "shmaKolenuSlihot",
+        "addToMenu": true
+      },
+      {
+        "id": "viduy",
+        "title": "viduyTitle",
+        "text": "viduySlichotSfarad",
+        "addToMenu": true
+      },
+      {
+        "id": "elRachum",
+        "title": "elRahumTitle",
+        "text": "elRahumSfarad"
+      },
+      {
+        "id": "anenu",
+        "title": "anenuSlichotTitle",
+        "text": "anenuSlihotSfarad"
+      },
+      {
+        "id": "miSheana",
+        "title": "miSheanaTitle",
+        "text": "miSheana"
+      },
+      {
+        "id": "nefilat",
+        "title": "tahanunTitle",
+        "text": "nefilatSlihot"
+      },
+      {
+        "id": "slihotSof",
+        "text": "slihotSof"
+      },
+      {
+        "id": "vanachnuLoNeda",
+        "text": "vanachnuLoNeda"
+      },
+      {
+        "id": "lastKadish",
+        "text": "TITKABAL",
+        "exapnd": "NONE"
+      }
+    ],
+    "3": [
+      {
+        "id": "ashrei",
+        "title": "ashreiTitle",
+        "text": "ashrei",
+        "addToMenu": true
+      },
+      {
+        "id": "igdalNa",
+        "text": "ptihaSlihot"
+      },
+      {
+        "id": "firstKadish",
+        "text": "HATZI",
+        "exapnd": "NONE"
+      },
+      {
+        "id": "lechaHashem",
+        "title": "amidaSofTitle",
+        "text": "lechaHshemSfarad"
+      },
+      {
+        "id": "firstYag",
+        "title": "yagTitle",
+        "text": "yagSlihotSfarad",
+        "addToMenu": true
+      },
+      {
+        "id": "afterFirstYag",
+        "text": "hoshiaHashemAfterYag"
+      },
+      {
+        "id": "israelAmchaTehina",
+        "title": "slicha{8}",
+        "text": "israelAmchaTehina",
+        "addToMenu": true
+      },
+      {
+        "id": "elMelech1",
+        "title": "elMelechTitle",
+        "text": "elMelechSfarad"
+      },
+      {
+        "id": "afterElMelechSfarad31",
+        "text": "afterElMelechSfarad31"
+      },
+      {
+        "id": "elechaNesuot",
+        "title": "slicha{9}",
+        "text": "elechaNesuot",
+        "addToMenu": true
+      },
+      {
+        "id": "elMelech2",
+        "title": "elMelechTitle",
+        "text": "elMelechSfarad"
+      },
+      {
+        "id": "israelNosha",
+        "title": "pizmon{10}",
+        "text": "israelNosha",
+        "addToMenu": true
+      },
+      {
+        "id": "elMelech3",
+        "title": "elMelechTitle",
+        "text": "elMelechSfarad"
+      },
+      {
+        "id": "afterElMelech_2",
+        "text": "afterElMelech_2"
+      },
+      {
+        "id": "shmaKolenu",
+        "title": "shmaKolenuSlihotTitle",
+        "text": "shmaKolenuSlihot",
+        "addToMenu": true
+      },
+      {
+        "id": "viduy",
+        "title": "viduyTitle",
+        "text": "viduySlichotSfarad",
+        "addToMenu": true
+      },
+      {
+        "id": "elRachum",
+        "title": "elRahumTitle",
+        "text": "elRahumSfarad"
+      },
+      {
+        "id": "anenu",
+        "title": "anenuSlichotTitle",
+        "text": "anenuSlihotSfarad"
+      },
+      {
+        "id": "miSheana",
+        "title": "miSheanaTitle",
+        "text": "miSheana"
+      },
+      {
+        "id": "nefilat",
+        "title": "tahanunTitle",
+        "text": "nefilatSlihot"
+      },
+      {
+        "id": "slihotSof",
+        "text": "slihotSof"
+      },
+      {
+        "id": "vanachnuLoNeda",
+        "text": "vanachnuLoNeda"
+      },
+      {
+        "id": "lastKadish",
+        "text": "TITKABAL",
+        "exapnd": "NONE"
+      }
+    ],
+    "4": [
+      {
+        "id": "ashrei",
+        "title": "ashreiTitle",
+        "text": "ashrei",
+        "addToMenu": true
+      },
+      {
+        "id": "igdalNa",
+        "text": "ptihaSlihot"
+      },
+      {
+        "id": "firstKadish",
+        "text": "HATZI",
+        "exapnd": "NONE"
+      },
+      {
+        "id": "lechaHashem",
+        "title": "amidaSofTitle",
+        "text": "lechaHshemSfarad"
+      },
+      {
+        "id": "firstYag",
+        "title": "yagTitle",
+        "text": "yagSlihotSfarad",
+        "addToMenu": true
+      },
+      {
+        "id": "afterFirstYag",
+        "text": "lamaHashemAfterYag"
+      },
+      {
+        "id": "aniYomIra",
+        "title": "slicha{11}",
+        "text": "aniYomIra",
+        "addToMenu": true
+      },
+      {
+        "id": "elMelech1",
+        "title": "elMelechTitle",
+        "text": "elMelechSfarad"
+      },
+      {
+        "id": "afterElMelechSfarad41",
+        "text": "afterElMelechSfarad41"
+      },
+      {
+        "id": "ayeKolNifleotecha",
+        "title": "slicha{12}",
+        "text": "ayeKolNifleotecha",
+        "addToMenu": true
+      },
+      {
+        "id": "elMelech2",
+        "title": "elMelechTitle",
+        "text": "elMelechSfarad"
+      },
+      {
+        "id": "beashmoretHaboker",
+        "title": "pizmon{13}",
+        "text": "beashmoretHaboker",
+        "addToMenu": true
+      },
+      {
+        "id": "elMelech3",
+        "title": "elMelechTitle",
+        "text": "elMelechSfarad"
+      },
+      {
+        "id": "afterElMelech_2",
+        "text": "afterElMelech_2"
+      },
+      {
+        "id": "shmaKolenu",
+        "title": "shmaKolenuSlihotTitle",
+        "text": "shmaKolenuSlihot",
+        "addToMenu": true
+      },
+      {
+        "id": "viduy",
+        "title": "viduyTitle",
+        "text": "viduySlichotSfarad",
+        "addToMenu": true
+      },
+      {
+        "id": "elRachum",
+        "title": "elRahumTitle",
+        "text": "elRahumSfarad"
+      },
+      {
+        "id": "anenu",
+        "title": "anenuSlichotTitle",
+        "text": "anenuSlihotSfarad"
+      },
+      {
+        "id": "miSheana",
+        "title": "miSheanaTitle",
+        "text": "miSheana"
+      },
+      {
+        "id": "nefilat",
+        "title": "tahanunTitle",
+        "text": "nefilatSlihot"
+      },
+      {
+        "id": "slihotSof",
+        "text": "slihotSof"
+      },
+      {
+        "id": "vanachnuLoNeda",
+        "text": "vanachnuLoNeda"
+      },
+      {
+        "id": "lastKadish",
+        "text": "TITKABAL",
+        "exapnd": "NONE"
+      }
+    ],
+    "5": [
+      {
+        "id": "ashrei",
+        "title": "ashreiTitle",
+        "text": "ashrei",
+        "addToMenu": true
+      },
+      {
+        "id": "igdalNa",
+        "text": "ptihaSlihot"
+      },
+      {
+        "id": "firstKadish",
+        "text": "HATZI",
+        "exapnd": "NONE"
+      },
+      {
+        "id": "lechaHashem",
+        "title": "amidaSofTitle",
+        "text": "lechaHshemSfarad"
+      },
+      {
+        "id": "firstYag",
+        "title": "yagTitle",
+        "text": "yagSlihotSfarad",
+        "addToMenu": true
+      },
+      {
+        "id": "afterFirstYag",
+        "text": "einKoreAfterYag"
+      },
+      {
+        "id": "derashticha",
+        "title": "slicha{11}",
+        "text": "derashticha",
+        "addToMenu": true
+      },
+      {
+        "id": "elMelech1",
+        "title": "elMelechTitle",
+        "text": "elMelechSfarad"
+      },
+      {
+        "id": "afterElMelechSfarad51",
+        "text": "afterElMelechSfarad51"
+      },
+      {
+        "id": "bealunuAdonim",
+        "title": "slicha{12}",
+        "text": "bealunuAdonim",
+        "addToMenu": true
+      },
+      {
+        "id": "elMelech2",
+        "title": "elMelechTitle",
+        "text": "elMelechSfarad"
+      },
+      {
+        "id": "nafshiBishelati",
+        "title": "pizmon{13}",
+        "text": "nafshiBishelati",
+        "addToMenu": true
+      },
+      {
+        "id": "elMelech3",
+        "title": "elMelechTitle",
+        "text": "elMelechSfarad"
+      },
+      {
+        "id": "afterElMelech_2",
+        "text": "afterElMelech_2"
+      },
+      {
+        "id": "shmaKolenu",
+        "title": "shmaKolenuSlihotTitle",
+        "text": "shmaKolenuSlihot",
+        "addToMenu": true
+      },
+      {
+        "id": "viduy",
+        "title": "viduyTitle",
+        "text": "viduySlichotSfarad",
+        "addToMenu": true
+      },
+      {
+        "id": "elRachum",
+        "title": "elRahumTitle",
+        "text": "elRahumSfarad"
+      },
+      {
+        "id": "anenu",
+        "title": "anenuSlichotTitle",
+        "text": "anenuSlihotSfarad"
+      },
+      {
+        "id": "miSheana",
+        "title": "miSheanaTitle",
+        "text": "miSheana"
+      },
+      {
+        "id": "nefilat",
+        "title": "tahanunTitle",
+        "text": "nefilatSlihot"
+      },
+      {
+        "id": "slihotSof",
+        "text": "slihotSof"
+      },
+      {
+        "id": "vanachnuLoNeda",
+        "text": "vanachnuLoNeda"
+      },
+      {
+        "id": "lastKadish",
+        "text": "TITKABAL",
+        "exapnd": "NONE"
+      }
+    ],
+    "6": [
+      {
+        "id": "ashrei",
+        "title": "ashreiTitle",
+        "text": "ashrei",
+        "addToMenu": true
+      },
+      {
+        "id": "igdalNa",
+        "text": "ptihaSlihot"
+      },
+      {
+        "id": "firstKadish",
+        "text": "HATZI",
+        "exapnd": "NONE"
+      },
+      {
+        "id": "lechaHashem",
+        "title": "amidaSofTitle",
+        "text": "lechaHshemSfarad"
+      },
+      {
+        "id": "firstYag",
+        "title": "yagTitle",
+        "text": "yagSlihotSfarad",
+        "addToMenu": true
+      },
+      {
+        "id": "afterFirstYag",
+        "text": "keayalAfterYag"
+      },
+      {
+        "id": "taarogElecha",
+        "title": "slicha{17}",
+        "text": "taarogElecha",
+        "addToMenu": true
+      },
+      {
+        "id": "elMelech1",
+        "title": "elMelechTitle",
+        "text": "elMelechSfarad"
+      },
+      {
+        "id": "arechuHayamim",
+        "title": "slicha{18}",
+        "text": "arechuHayamim",
+        "addToMenu": true
+      },
+      {
+        "id": "elMelech2",
+        "title": "elMelechTitle",
+        "text": "elMelechSfarad"
+      },
+      {
+        "id": "ozrenuSlichot",
+        "title": "pizmon{19}",
+        "text": "ozrenuSlichot",
+        "addToMenu": true
+      },
+      {
+        "id": "elMelech3",
+        "title": "elMelechTitle",
+        "text": "elMelechSfarad"
+      },
+      {
+        "id": "afterElMelech_2",
+        "text": "afterElMelech_2"
+      },
+      {
+        "id": "shmaKolenu",
+        "title": "shmaKolenuSlihotTitle",
+        "text": "shmaKolenuSlihot",
+        "addToMenu": true
+      },
+      {
+        "id": "viduy",
+        "title": "viduyTitle",
+        "text": "viduySlichotSfarad",
+        "addToMenu": true
+      },
+      {
+        "id": "elRachum",
+        "title": "elRahumTitle",
+        "text": "elRahumSfarad"
+      },
+      {
+        "id": "anenu",
+        "title": "anenuSlichotTitle",
+        "text": "anenuSlihotSfarad"
+      },
+      {
+        "id": "miSheana",
+        "title": "miSheanaTitle",
+        "text": "miSheana"
+      },
+      {
+        "id": "nefilat",
+        "title": "tahanunTitle",
+        "text": "nefilatSlihot"
+      },
+      {
+        "id": "slihotSof",
+        "text": "slihotSof"
+      },
+      {
+        "id": "vanachnuLoNeda",
+        "text": "vanachnuLoNeda"
+      },
+      {
+        "id": "lastKadish",
+        "text": "TITKABAL",
+        "exapnd": "NONE"
+      }
+    ],
+    "7": [
+      {
+        "id": "ashrei",
+        "title": "ashreiTitle",
+        "text": "ashrei",
+        "addToMenu": true
+      },
+      {
+        "id": "igdalNa",
+        "text": "ptihaSlihot"
+      },
+      {
+        "id": "firstKadish",
+        "text": "HATZI",
+        "exapnd": "NONE"
+      },
+      {
+        "id": "lechaHashem",
+        "title": "amidaSofTitle",
+        "text": "lechaHshemSfarad"
+      },
+      {
+        "id": "firstYag",
+        "title": "yagTitle",
+        "text": "yagSlihotSfarad",
+        "addToMenu": true
+      },
+      {
+        "id": "afterFirstYag",
+        "text": "ataLoTichlaAfterYag"
+      },
+      {
+        "id": "anachnuHachomer",
+        "title": "slicha{20}",
+        "text": "anachnuHachomer",
+        "addToMenu": true
+      },
+      {
+        "id": "elMelech1",
+        "title": "elMelechTitle",
+        "text": "elMelechSfarad"
+      },
+      {
+        "id": "afterElMelechSfarad71",
+        "text": "afterElMelechSfarad71"
+      },
+      {
+        "id": "aryeByaar",
+        "title": "slicha{21}",
+        "text": "aryeByaar",
+        "addToMenu": true
+      },
+      {
+        "id": "elMelech2",
+        "title": "elMelechTitle",
+        "text": "elMelechSfarad"
+      },
+      {
+        "id": "nafshiBishelatiPizmon",
+        "title": "pizmon{22}",
+        "text": "nafshiBishelatiPizmon",
+        "addToMenu": true
+      },
+      {
+        "id": "elMelech3",
+        "title": "elMelechTitle",
+        "text": "elMelechSfarad"
+      },
+      {
+        "id": "afterElMelech_2",
+        "text": "afterElMelech_2"
+      },
+      {
+        "id": "shmaKolenu",
+        "title": "shmaKolenuSlihotTitle",
+        "text": "shmaKolenuSlihot",
+        "addToMenu": true
+      },
+      {
+        "id": "viduy",
+        "title": "viduyTitle",
+        "text": "viduySlichotSfarad",
+        "addToMenu": true
+      },
+      {
+        "id": "elRachum",
+        "title": "elRahumTitle",
+        "text": "elRahumSfarad"
+      },
+      {
+        "id": "anenu",
+        "title": "anenuSlichotTitle",
+        "text": "anenuSlihotSfarad"
+      },
+      {
+        "id": "miSheana",
+        "title": "miSheanaTitle",
+        "text": "miSheana"
+      },
+      {
+        "id": "nefilat",
+        "title": "tahanunTitle",
+        "text": "nefilatSlihot"
+      },
+      {
+        "id": "slihotSof",
+        "text": "slihotSof"
+      },
+      {
+        "id": "vanachnuLoNeda",
+        "text": "vanachnuLoNeda"
+      },
+      {
+        "id": "lastKadish",
+        "text": "TITKABAL",
+        "exapnd": "NONE"
+      }
+    ],
+    "8": [
+      {
+        "id": "ashrei",
+        "title": "ashreiTitle",
+        "text": "ashrei",
+        "addToMenu": true
+      },
+      {
+        "id": "igdalNa",
+        "text": "ptihaSlihot"
+      },
+      {
+        "id": "firstKadish",
+        "text": "HATZI",
+        "exapnd": "NONE"
+      },
+      {
+        "id": "lechaHashem",
+        "title": "amidaSofTitle",
+        "text": "lechaHshemErevRosShanaSfarad"
+      },
+      {
+        "id": "pticha23",
+        "title": "pticha{23}",
+        "text": "ptihaRoshShana",
+        "addToMenu": true
+      },
+      {
+        "id": "kiAlRachmecha",
+        "text": "kiAlRachmecha"
+      },
+      {
+        "id": "firstYag",
+        "title": "yagTitle",
+        "text": "yagSlihotSfarad",
+        "addToMenu": true
+      },
+      {
+        "id": "afterFirstYag",
+        "text": "elohenuBoshnuAfterYag"
+      },
+      {
+        "id": "eichachaEftze",
+        "title": "slicha{24}",
+        "text": "eichachaEftze",
+        "addToMenu": true
+      },
+      {
+        "id": "elMelech1",
+        "title": "elMelechTitle",
+        "text": "elMelechSfarad"
+      },
+      {
+        "id": "afterElMelechSfarad81",
+        "text": "afterElMelechSfarad81"
+      },
+      {
+        "id": "anaOrera",
+        "title": "slicha{25}",
+        "text": "anaOrera",
+        "addToMenu": true
+      },
+      {
+        "id": "elMelech2",
+        "title": "elMelechTitle",
+        "text": "elMelechSfarad"
+      },
+      {
+        "id": "afterElMelechErevRosh",
+        "text": "afterElMelechErevRosh"
+      },
+      {
+        "id": "elEloahDalfa",
+        "title": "slicha{26}",
+        "text": "elEloahDalfa",
+        "addToMenu": true
+      },
+      {
+        "id": "elMelech3",
+        "title": "elMelechTitle",
+        "text": "elMelechSfarad"
+      },
+      {
+        "id": "afterElMelechSfarad82",
+        "text": "afterElMelechSfarad82"
+      },
+      {
+        "id": "adonMoedKetikach",
+        "title": "slicha{27}",
+        "text": "adonMoedKetikach",
+        "addToMenu": true
+      },
+      {
+        "id": "elMelech4",
+        "title": "elMelechTitle",
+        "text": "elMelechSfarad"
+      },
+      {
+        "id": "afterElMelechSfarad83",
+        "text": "afterElMelechSfarad83"
+      },
+      {
+        "id": "adonDinIm",
+        "title": "slicha{28}",
+        "text": "adonDinIm",
+        "addToMenu": true
+      },
+      {
+        "id": "elMelech5",
+        "title": "elMelechTitle",
+        "text": "elMelechSfarad"
+      },
+      {
+        "id": "afterElMelechSfarad84",
+        "text": "afterElMelechSfarad84"
+      },
+      {
+        "id": "adonBefokdecha",
+        "title": "shnia{29}",
+        "text": "adonBefokdecha",
+        "addToMenu": true
+      },
+      {
+        "id": "elMelech6",
+        "title": "elMelechTitle",
+        "text": "elMelechSfarad"
+      },
+      {
+        "id": "afterElMelechSfarad85",
+        "text": "afterElMelechSfarad85"
+      },
+      {
+        "id": "adonBeshoftecha",
+        "title": "shnia{30}",
+        "text": "adonBeshoftecha",
+        "addToMenu": true
+      },
+      {
+        "id": "elMelech7",
+        "title": "elMelechTitle",
+        "text": "elMelechSfarad"
+      },
+      {
+        "id": "afterElMelechSfarad86",
+        "text": "afterElMelechSfarad86"
+      },
+      {
+        "id": "achBecha",
+        "title": "shnia{31}",
+        "text": "achBecha",
+        "addToMenu": true
+      },
+      {
+        "id": "elMelech8",
+        "title": "elMelechTitle",
+        "text": "elMelechSfarad"
+      },
+      {
+        "id": "afterElMelechSfarad87",
+        "text": "afterElMelechSfarad87"
+      },
+      {
+        "id": "adamEichIzke",
+        "title": "shnia{32}",
+        "text": "adamEichIzke",
+        "addToMenu": true
+      },
+      {
+        "id": "elMelech9",
+        "title": "elMelechTitle",
+        "text": "elMelechSfarad"
+      },
+      {
+        "id": "afterElMelechSfarad88",
+        "text": "afterElMelechSfarad88"
+      },
+      {
+        "id": "achBemetach",
+        "title": "shnia{33}",
+        "text": "achBemetach",
+        "addToMenu": true
+      },
+      {
+        "id": "elMelech10",
+        "title": "elMelechTitle",
+        "text": "elMelechSfarad"
+      },
+      {
+        "id": "afterElMelechSfarad89",
+        "text": "afterElMelechSfarad89"
+      },
+      {
+        "id": "elEmuna",
+        "title": "shlishiya{34}",
+        "text": "elEmuna",
+        "addToMenu": true
+      },
+      {
+        "id": "elMelech11",
+        "title": "elMelechTitle",
+        "text": "elMelechSfarad"
+      },
+      {
+        "id": "afterElMelechSfarad810",
+        "text": "afterElMelechSfarad810"
+      },
+      {
+        "id": "hayimArukim",
+        "title": "shalmonit{35}",
+        "text": "hayimArukim",
+        "addToMenu": true
+      },
+      {
+        "id": "elMelech12",
+        "title": "elMelechTitle",
+        "text": "elMelechSfarad"
+      },
+      {
+        "id": "afterElMelechSfarad811",
+        "text": "afterElMelechSfarad811"
+      },
+      {
+        "id": "shloshEsreMidot",
+        "title": "shalmonit{36}",
+        "text": "shloshEsreMidot",
+        "addToMenu": true
+      },
+      {
+        "id": "elMelech13",
+        "title": "elMelechTitle",
+        "text": "elMelechSfarad"
+      },
+      {
+        "id": "afterElMelechSfarad812",
+        "text": "afterElMelechSfarad812"
+      },
+      {
+        "id": "olatHaboker",
+        "title": "pizmon{38}",
+        "text": "olatHaboker",
+        "addToMenu": true
+      },
+      {
+        "id": "elMelech14",
+        "title": "elMelechTitle",
+        "text": "elMelechSfarad"
+      },
+      {
+        "id": "afterElMelechSfarad813",
+        "text": "afterElMelechSfarad813"
+      },
+      {
+        "id": "mefaltiEli",
+        "title": "akedaSlicha{39}",
+        "text": "mefaltiEli",
+        "addToMenu": true
+      },
+      {
+        "id": "elMelech15",
+        "title": "elMelechTitle",
+        "text": "elMelechSfarad"
+      },
+      {
+        "id": "afterElMelechSfarad814",
+        "text": "afterElMelechSfarad814"
+      },
+      {
+        "id": "zechorBerit",
+        "title": "pizmon{40}",
+        "text": "zechorBerit",
+        "addToMenu": true
+      },
+      {
+        "id": "afterElMelech_2",
+        "text": "afterElMelech_2_7"
+      },
+      {
+        "id": "shmaKolenu",
+        "title": "shmaKolenuSlihotTitle",
+        "text": "shmaKolenuSlihot",
+        "addToMenu": true
+      },
+      {
+        "id": "viduy",
+        "title": "viduyTitle",
+        "text": "viduySlihotSfarad7",
+        "addToMenu": true
+      },
+      {
+        "id": "elRachum",
+        "title": "elRahumTitle",
+        "text": "elRahumSfarad"
+      },
+      {
+        "id": "anenu",
+        "title": "anenuSlichotTitle",
+        "text": "anenuSlihotSfarad"
+      },
+      {
+        "id": "miSheana",
+        "title": "miSheanaTitle",
+        "text": "miSheana"
+      },
+      {
+        "id": "nefilat",
+        "title": "tahanunTitle",
+        "text": "nefilatSlihot"
+      },
+      {
+        "id": "tfilaTikach",
+        "title": "tchina{41}",
+        "text": "tfilaTikach",
+        "addToMenu": true
+      },
+      {
+        "id": "slihotSof",
+        "text": "slihotSof"
+      },
+      {
+        "id": "vanachnuLoNeda",
+        "text": "vanachnuLoNeda"
+      },
+      {
+        "id": "lastKadish",
+        "text": "TITKABAL",
+        "exapnd": "NONE"
+      }
+    ],
+    "9": [
+      {
+        "id": "ashrei",
+        "title": "ashreiTitle",
+        "text": "ashrei",
+        "addToMenu": true
+      },
+      {
+        "id": "igdalNa",
+        "text": "ptihaSlihot"
+      },
+      {
+        "id": "firstKadish",
+        "text": "HATZI",
+        "exapnd": "NONE"
+      },
+      {
+        "id": "lechaHashem",
+        "title": "amidaSofTitle",
+        "text": "lechaHshemSfarad"
+      },
+      {
+        "id": "afterLechaHashem",
+        "text": "afterLechaHashem"
+      },
+      {
+        "id": "azTerem",
+        "title": "pticha{42}",
+        "text": "azTerem",
+        "addToMenu": true
+      },
+      {
+        "id": "kiAlRachmecha",
+        "text": "kiAlRachmecha",
+        "title": "yagTitle",
+        "addToMenu": true
+      },
+      {
+        "id": "firstYag",
+        "text": "yagSlihotSfarad"
+      },
+      {
+        "id": "afterFirstYag",
+        "text": "dirhuaHashemAfterYag"
+      },
+      {
+        "id": "etHashemBehimatseo",
+        "title": "slicha{43}",
+        "text": "etHashemBehimatseo",
+        "addToMenu": true
+      },
+      {
+        "id": "elMelech1",
+        "title": "elMelechTitle",
+        "text": "elMelechSfarad"
+      },
+      {
+        "id": "afterElMelechSfarad91",
+        "text": "afterElMelechSfarad91"
+      },
+      {
+        "id": "avlaNafshi",
+        "title": "slicha{44}",
+        "text": "avlaNafshi",
+        "addToMenu": true
+      },
+      {
+        "id": "elMelech2",
+        "title": "elMelechTitle",
+        "text": "elMelechSfarad"
+      },
+      {
+        "id": "afterElMelechSfarad92",
+        "text": "afterElMelechSfarad92"
+      },
+      {
+        "id": "imantaMeaz",
+        "title": "slicha{45}",
+        "text": "imantaMeaz",
+        "addToMenu": true
+      },
+      {
+        "id": "elMelech3",
+        "title": "elMelechTitle",
+        "text": "elMelechSfarad"
+      },
+      {
+        "id": "afterElMelechSfarad93",
+        "text": "afterElMelechSfarad93"
+      },
+      {
+        "id": "amitechaShelach",
+        "title": "slicha{46}",
+        "text": "amitechaShelach",
+        "addToMenu": true
+      },
+      {
+        "id": "elMelech4",
+        "title": "elMelechTitle",
+        "text": "elMelechSfarad"
+      },
+      {
+        "id": "afterElMelechSfarad94",
+        "text": "afterElMelechSfarad94"
+      },
+      {
+        "id": "tashuvTerahamenuShuv",
+        "title": "shalmonit{47}",
+        "text": "tashuvTerahamenuShuv",
+        "addToMenu": true
+      },
+      {
+        "id": "elMelech5",
+        "title": "elMelechTitle",
+        "text": "elMelechSfarad"
+      },
+      {
+        "id": "horetaDerech",
+        "title": "slicha{48}",
+        "text": "horetaDerech",
+        "addToMenu": true
+      },
+      {
+        "id": "elMelech6",
+        "title": "elMelechTitle",
+        "text": "elMelechSfarad"
+      },
+      {
+        "id": "afterElMelechSfarad96",
+        "text": "afterElMelechSfarad96"
+      },
+      {
+        "id": "azBeharMor",
+        "title": "akedaSlicha{49}",
+        "text": "azBeharMor",
+        "addToMenu": true
+      },
+      {
+        "id": "elMelech7",
+        "title": "elMelechTitle",
+        "text": "elMelechSfarad"
+      },
+      {
+        "id": "afterElMelechSfarad97",
+        "text": "afterElMelechSfarad97"
+      },
+      {
+        "id": "zechorBritTasKanesher",
+        "title": "slicha{50}",
+        "text": "zechorBritTasKanesher",
+        "addToMenu": true
+      },
+      {
+        "id": "afterElMelech_2",
+        "text": "afterElMelech_2"
+      },
+      {
+        "id": "shmaKolenu",
+        "title": "shmaKolenuSlihotTitle",
+        "text": "shmaKolenuSlihot",
+        "addToMenu": true
+      },
+      {
+        "id": "viduy",
+        "title": "viduyTitle",
+        "text": "viduySlichotSfarad",
+        "addToMenu": true
+      },
+      {
+        "id": "elRachum",
+        "title": "elRahumTitle",
+        "text": "elRahumSfarad"
+      },
+      {
+        "id": "anenu",
+        "title": "anenuSlichotTitle",
+        "text": "anenuSlihotSfarad"
+      },
+      {
+        "id": "miSheana",
+        "title": "miSheanaTitle",
+        "text": "miSheana"
+      },
+      {
+        "id": "nefilat",
+        "title": "tahanunTitle",
+        "text": "nefilatSlihot"
+      },
+      {
+        "id": "torahHakdosha",
+        "title": "tchina{51}",
+        "text": "torahHakdosha"
+      },
+      {
+        "id": "slihotSof",
+        "text": "slihotSof"
+      },
+      {
+        "id": "vanachnuLoNeda",
+        "text": "vanachnuLoNeda"
+      },
+      {
+        "id": "lastKadish",
+        "text": "TITKABAL",
+        "exapnd": "NONE"
+      }
+    ],
+    "10": [
+      {
+        "id": "ashrei",
+        "title": "ashreiTitle",
+        "text": "ashrei",
+        "addToMenu": true
+      },
+      {
+        "id": "igdalNa",
+        "text": "ptihaSlihot"
+      },
+      {
+        "id": "firstKadish",
+        "text": "HATZI",
+        "exapnd": "NONE"
+      },
+      {
+        "id": "lechaHashem",
+        "title": "amidaSofTitle",
+        "text": "lechaHshemSfarad"
+      },
+      {
+        "id": "elechaLev",
+        "title": "pticha{52}",
+        "text": "elechaLev",
+        "addToMenu": true
+      },
+      {
+        "id": "kiAlRachmecha",
+        "text": "kiAlRachmecha",
+        "title": "yagTitle",
+        "addToMenu": true
+      },
+      {
+        "id": "firstYag",
+        "text": "yagSlihotSfarad"
+      },
+      {
+        "id": "afterFirstYag",
+        "text": "doreshDamimAfterYag"
+      },
+      {
+        "id": "aniKeraticha",
+        "title": "slicha{53}",
+        "text": "aniKeraticha",
+        "addToMenu": true
+      },
+      {
+        "id": "elMelech1",
+        "title": "elMelechTitle",
+        "text": "elMelechSfarad"
+      },
+      {
+        "id": "afterElMelechSfarad101",
+        "text": "afterElMelechSfarad101"
+      },
+      {
+        "id": "elchaVeashuva",
+        "title": "slicha{54}",
+        "text": "elchaVeashuva",
+        "addToMenu": true
+      },
+      {
+        "id": "elMelech2",
+        "title": "elMelechTitle",
+        "text": "elMelechSfarad"
+      },
+      {
+        "id": "afterElMelechSfarad102",
+        "text": "afterElMelechSfarad102"
+      },
+      {
+        "id": "bokerEeroch",
+        "title": "slicha{55}",
+        "text": "bokerEeroch",
+        "addToMenu": true
+      },
+      {
+        "id": "elMelech3",
+        "title": "elMelechTitle",
+        "text": "elMelechSfarad"
+      },
+      {
+        "id": "afterElMelechSfarad103",
+        "text": "afterElMelechSfarad103"
+      },
+      {
+        "id": "nigzarnuLanu",
+        "title": "slicha{56}",
+        "text": "nigzarnuLanu",
+        "addToMenu": true
+      },
+      {
+        "id": "elMelech4",
+        "title": "elMelechTitle",
+        "text": "elMelechSfarad"
+      },
+      {
+        "id": "benKese",
+        "title": "pizmon{57}",
+        "text": "benKese",
+        "addToMenu": true
+      },
+      {
+        "id": "elMelech5",
+        "title": "elMelechTitle",
+        "text": "elMelechSfarad"
+      },
+      {
+        "id": "afterElMelechSfarad105",
+        "text": "afterElMelechSfarad105"
+      },
+      {
+        "id": "eitanLimed",
+        "title": "akedaSlicha{58}",
+        "text": "eitanLimed",
+        "addToMenu": true
+      },
+      {
+        "id": "elMelech7",
+        "title": "elMelechTitle",
+        "text": "elMelechSfarad"
+      },
+      {
+        "id": "afterElMelech_2",
+        "text": "afterElMelech_2"
+      },
+      {
+        "id": "shmaKolenu",
+        "title": "shmaKolenuSlihotTitle",
+        "text": "shmaKolenuSlihot",
+        "addToMenu": true
+      },
+      {
+        "id": "viduy",
+        "title": "viduyTitle",
+        "text": "viduySlichotSfarad",
+        "addToMenu": true
+      },
+      {
+        "id": "elRachum",
+        "title": "elRahumTitle",
+        "text": "elRahumSfarad"
+      },
+      {
+        "id": "anenu",
+        "title": "anenuSlichotTitle",
+        "text": "anenuSlihotSfarad"
+      },
+      {
+        "id": "miSheana",
+        "title": "miSheanaTitle",
+        "text": "miSheana"
+      },
+      {
+        "id": "nefilat",
+        "title": "tahanunTitle",
+        "text": "nefilatSlihot"
+      },
+      {
+        "id": "shaareiShmaim",
+        "title": "slicha{59}",
+        "text": "shaareiShmaim"
+      },
+      {
+        "id": "slihotSof",
+        "text": "slihotSof"
+      },
+      {
+        "id": "vanachnuLoNeda",
+        "text": "vanachnuLoNeda"
+      },
+      {
+        "id": "lastKadish",
+        "text": "TITKABAL",
+        "exapnd": "NONE"
+      }
+    ],
+    "11": [
+      {
+        "id": "ashrei",
+        "title": "ashreiTitle",
+        "text": "ashrei",
+        "addToMenu": true
+      },
+      {
+        "id": "igdalNa",
+        "text": "ptihaSlihot"
+      },
+      {
+        "id": "firstKadish",
+        "text": "HATZI",
+        "exapnd": "NONE"
+      },
+      {
+        "id": "lechaHashem",
+        "title": "amidaSofTitle",
+        "text": "lechaHshemSfarad"
+      },
+      {
+        "id": "shicharnuchaBikashnucha",
+        "title": "pticha{60}",
+        "text": "shicharnuchaBikashnucha",
+        "addToMenu": true
+      },
+      {
+        "id": "kiAlRachmecha",
+        "text": "kiAlRachmecha",
+        "title": "yagTitle",
+        "addToMenu": true
+      },
+      {
+        "id": "firstYag",
+        "text": "yagSlihotSfarad"
+      },
+      {
+        "id": "afterFirstYag",
+        "text": "mikveAfterYag"
+      },
+      {
+        "id": "achBechaMikve",
+        "title": "slicha{61}",
+        "text": "achBechaMikve",
+        "addToMenu": true
+      },
+      {
+        "id": "elMelech1",
+        "title": "elMelechTitle",
+        "text": "elMelechSfarad"
+      },
+      {
+        "id": "afterElMelechSfarad111",
+        "text": "afterElMelechSfarad111"
+      },
+      {
+        "id": "elechaHashemShivati",
+        "title": "slicha{62}",
+        "text": "elechaHashemShivati",
+        "addToMenu": true
+      },
+      {
+        "id": "elMelech2",
+        "title": "elMelechTitle",
+        "text": "elMelechSfarad"
+      },
+      {
+        "id": "afterElMelechSfarad112",
+        "text": "afterElMelechSfarad112"
+      },
+      {
+        "id": "einBiltecha",
+        "title": "slicha{63}",
+        "text": "einBiltecha",
+        "addToMenu": true
+      },
+      {
+        "id": "elMelech3",
+        "title": "elMelechTitle",
+        "text": "elMelechSfarad"
+      },
+      {
+        "id": "afterElMelechSfarad113",
+        "text": "afterElMelechSfarad113"
+      },
+      {
+        "id": "eichaUchalAvo",
+        "title": "slicha{64}",
+        "text": "eichaUchalAvo",
+        "addToMenu": true
+      },
+      {
+        "id": "elMelech4",
+        "title": "elMelechTitle",
+        "text": "elMelechSfarad"
+      },
+      {
+        "id": "leshavatenuHaazina",
+        "title": "pizmon{65}",
+        "text": "leshavatenuHaazina",
+        "addToMenu": true
+      },
+      {
+        "id": "elMelech5",
+        "title": "elMelechTitle",
+        "text": "elMelechSfarad"
+      },
+      {
+        "id": "afterElMelechSfarad115",
+        "text": "afterElMelechSfarad115"
+      },
+      {
+        "id": "ezrachiMeever",
+        "title": "akedaSlicha{66}",
+        "text": "ezrachiMeever",
+        "addToMenu": true
+      },
+      {
+        "id": "elMelech7",
+        "title": "elMelechTitle",
+        "text": "elMelechSfarad"
+      },
+      {
+        "id": "afterElMelech_2",
+        "text": "afterElMelech_2"
+      },
+      {
+        "id": "shmaKolenu",
+        "title": "shmaKolenuSlihotTitle",
+        "text": "shmaKolenuSlihot",
+        "addToMenu": true
+      },
+      {
+        "id": "viduy",
+        "title": "viduyTitle",
+        "text": "viduySlichotSfarad",
+        "addToMenu": true
+      },
+      {
+        "id": "elRachum",
+        "title": "elRahumTitle",
+        "text": "elRahumSfarad"
+      },
+      {
+        "id": "anenu",
+        "title": "anenuSlichotTitle",
+        "text": "anenuSlihotSfarad"
+      },
+      {
+        "id": "miSheana",
+        "title": "miSheanaTitle",
+        "text": "miSheana"
+      },
+      {
+        "id": "nefilat",
+        "title": "tahanunTitle",
+        "text": "nefilatSlihot"
+      },
+      {
+        "id": "shevetHakise",
+        "title": "akedaSlicha{67}",
+        "text": "shevetHakise"
+      },
+      {
+        "id": "slihotSof",
+        "text": "slihotSof"
+      },
+      {
+        "id": "vanachnuLoNeda",
+        "text": "vanachnuLoNeda"
+      },
+      {
+        "id": "lastKadish",
+        "text": "TITKABAL",
+        "exapnd": "NONE"
+      }
+    ],
+    "12": [
+      {
+        "id": "ashrei",
+        "title": "ashreiTitle",
+        "text": "ashrei",
+        "addToMenu": true
+      },
+      {
+        "id": "igdalNa",
+        "text": "ptihaSlihot"
+      },
+      {
+        "id": "firstKadish",
+        "text": "HATZI",
+        "exapnd": "NONE"
+      },
+      {
+        "id": "lechaHashem",
+        "title": "amidaSofTitle",
+        "text": "lechaHshemSfarad"
+      },
+      {
+        "id": "shoshanatVered",
+        "title": "pticha{68}",
+        "text": "shoshanatVered",
+        "addToMenu": true
+      },
+      {
+        "id": "kiAlRachmecha",
+        "text": "kiAlRachmecha",
+        "title": "yagTitle",
+        "addToMenu": true
+      },
+      {
+        "id": "firstYag",
+        "text": "yagSlihotSfarad"
+      },
+      {
+        "id": "afterFirstYag",
+        "text": "elechaShivatiAfterYag"
+      },
+      {
+        "id": "elechaHashemAyom",
+        "title": "slicha{69}",
+        "text": "elechaHashemAyom",
+        "addToMenu": true
+      },
+      {
+        "id": "elMelech1",
+        "title": "elMelechTitle",
+        "text": "elMelechSfarad"
+      },
+      {
+        "id": "afterElMelechSfarad121",
+        "text": "afterElMelechSfarad121"
+      },
+      {
+        "id": "ataMikedemElohenu",
+        "title": "slicha{70}",
+        "text": "ataMikedemElohenu",
+        "addToMenu": true
+      },
+      {
+        "id": "elMelech2",
+        "title": "elMelechTitle",
+        "text": "elMelechSfarad"
+      },
+      {
+        "id": "afterElMelechSfarad122",
+        "text": "afterElMelechSfarad122"
+      },
+      {
+        "id": "shomamtiBerovYegoni",
+        "title": "slicha{71}",
+        "text": "shomamtiBerovYegoni",
+        "addToMenu": true
+      },
+      {
+        "id": "elMelech3",
+        "title": "elMelechTitle",
+        "text": "elMelechSfarad"
+      },
+      {
+        "id": "afterElMelechSfarad123",
+        "text": "afterElMelechSfarad123"
+      },
+      {
+        "id": "taharutRogez",
+        "title": "slicha{72}",
+        "text": "taharutRogez",
+        "addToMenu": true
+      },
+      {
+        "id": "elMelech4",
+        "title": "elMelechTitle",
+        "text": "elMelechSfarad"
+      },
+      {
+        "id": "yashmienuSalachti",
+        "title": "pizmon{73}",
+        "text": "yashmienuSalachti",
+        "addToMenu": true
+      },
+      {
+        "id": "elMelech5",
+        "title": "elMelechTitle",
+        "text": "elMelechSfarad"
+      },
+      {
+        "id": "afterElMelechSfarad125",
+        "text": "afterElMelechSfarad125"
+      },
+      {
+        "id": "imAfesSfarad",
+        "title": "slicha{74}",
+        "text": "imAfesSfarad",
+        "addToMenu": true
+      },
+      {
+        "id": "elMelech7",
+        "title": "elMelechTitle",
+        "text": "elMelechSfarad"
+      },
+      {
+        "id": "afterElMelech_2",
+        "text": "afterElMelech_2"
+      },
+      {
+        "id": "shmaKolenu",
+        "title": "shmaKolenuSlihotTitle",
+        "text": "shmaKolenuSlihot",
+        "addToMenu": true
+      },
+      {
+        "id": "viduy",
+        "title": "viduyTitle",
+        "text": "viduySlichotSfarad",
+        "addToMenu": true
+      },
+      {
+        "id": "elRachum",
+        "title": "elRahumTitle",
+        "text": "elRahumSfarad"
+      },
+      {
+        "id": "anenu",
+        "title": "anenuSlichotTitle",
+        "text": "anenuSlihotSfarad"
+      },
+      {
+        "id": "miSheana",
+        "title": "miSheanaTitle",
+        "text": "miSheana"
+      },
+      {
+        "id": "nefilat",
+        "title": "tahanunTitle",
+        "text": "nefilatSlihot"
+      },
+      {
+        "id": "melechMelachimRam",
+        "title": "slicha{75}",
+        "text": "melechMelachimRam"
+      },
+      {
+        "id": "slihotSof",
+        "text": "slihotSof"
+      },
+      {
+        "id": "vanachnuLoNeda",
+        "text": "vanachnuLoNeda"
+      },
+      {
+        "id": "lastKadish",
+        "text": "TITKABAL",
+        "exapnd": "NONE"
+      }
+    ],
+    "13": [
+      {
+        "id": "ashrei",
+        "title": "ashreiTitle",
+        "text": "ashrei",
+        "addToMenu": true
+      },
+      {
+        "id": "igdalNa",
+        "text": "ptihaSlihot"
+      },
+      {
+        "id": "firstKadish",
+        "text": "HATZI",
+        "exapnd": "NONE"
+      },
+      {
+        "id": "lechaHashem",
+        "title": "amidaSofTitle",
+        "text": "lechaHshemSfarad"
+      },
+      {
+        "id": "amHashemHizku",
+        "title": "pticha{76}",
+        "text": "amHashemHizku",
+        "addToMenu": true
+      },
+      {
+        "id": "kiAlRachmecha",
+        "text": "kiAlRachmecha",
+        "title": "yagTitle",
+        "addToMenu": true
+      },
+      {
+        "id": "firstYag",
+        "text": "yagSlihotSfarad"
+      },
+      {
+        "id": "afterFirstYag",
+        "text": "vaanachnuAfterYag"
+      },
+      {
+        "id": "aniBerovHasdecha",
+        "title": "slicha{77}",
+        "text": "aniBerovHasdecha",
+        "addToMenu": true
+      },
+      {
+        "id": "elMelech1",
+        "title": "elMelechTitle",
+        "text": "elMelechSfarad"
+      },
+      {
+        "id": "afterElMelechSfarad131",
+        "text": "afterElMelechSfarad131"
+      },
+      {
+        "id": "elohimBeisraelGadol",
+        "title": "slicha{78}",
+        "text": "elohimBeisraelGadol",
+        "addToMenu": true
+      },
+      {
+        "id": "elMelech2",
+        "title": "elMelechTitle",
+        "text": "elMelechSfarad"
+      },
+      {
+        "id": "afterElMelechSfarad132",
+        "text": "afterElMelechSfarad132"
+      },
+      {
+        "id": "ataHelkiVezur",
+        "title": "slicha{79}",
+        "text": "ataHelkiVezur",
+        "addToMenu": true
+      },
+      {
+        "id": "elMelech3",
+        "title": "elMelechTitle",
+        "text": "elMelechSfarad"
+      },
+      {
+        "id": "afterElMelechSfarad133",
+        "text": "afterElMelechSfarad133"
+      },
+      {
+        "id": "toheletIsrael",
+        "title": "slicha{80}",
+        "text": "toheletIsrael",
+        "addToMenu": true
+      },
+      {
+        "id": "elMelech4",
+        "title": "elMelechTitle",
+        "text": "elMelechSfarad"
+      },
+      {
+        "id": "afterElMelechSfarad134",
+        "text": "afterElMelechSfarad134"
+      },
+      {
+        "id": "ezonTahan",
+        "title": "sliha{81}",
+        "text": "ezonTahan",
+        "addToMenu": true
+      },
+      {
+        "id": "elMelech5",
+        "title": "elMelechTitle",
+        "text": "elMelechSfarad"
+      },
+      {
+        "id": "hashemHashem",
+        "title": "pizmon{82}",
+        "text": "hashemHashem",
+        "addToMenu": true
+      },
+      {
+        "id": "elMelech6",
+        "title": "elMelechTitle",
+        "text": "elMelechSfarad"
+      },
+      {
+        "id": "afterElMelechSfarad135",
+        "text": "afterElMelechSfarad135"
+      },
+      {
+        "id": "elHarHamor",
+        "title": "akedaSlicha{83}",
+        "text": "elHarHamor",
+        "addToMenu": true
+      },
+      {
+        "id": "elMelech7",
+        "title": "elMelechTitle",
+        "text": "elMelechSfarad"
+      },
+      {
+        "id": "afterElMelech_2",
+        "text": "afterElMelech_2"
+      },
+      {
+        "id": "shmaKolenu",
+        "title": "shmaKolenuSlihotTitle",
+        "text": "shmaKolenuSlihot",
+        "addToMenu": true
+      },
+      {
+        "id": "viduy",
+        "title": "viduyTitle",
+        "text": "viduySlichotSfarad",
+        "addToMenu": true
+      },
+      {
+        "id": "elRachum",
+        "title": "elRahumTitle",
+        "text": "elRahumSfarad"
+      },
+      {
+        "id": "anenu",
+        "title": "anenuSlichotTitle",
+        "text": "anenuSlihotSfarad"
+      },
+      {
+        "id": "miSheana",
+        "title": "miSheanaTitle",
+        "text": "miSheana"
+      },
+      {
+        "id": "nefilat",
+        "title": "tahanunTitle",
+        "text": "nefilatSlihot"
+      },
+      {
+        "id": "mikveIsraelMoshio",
+        "title": "slicha{84}",
+        "text": "mikveIsraelMoshio"
+      },
+      {
+        "id": "slihotSof",
+        "text": "slihotSof"
+      },
+      {
+        "id": "vanachnuLoNeda",
+        "text": "vanachnuLoNeda"
+      },
+      {
+        "id": "lastKadish",
+        "text": "TITKABAL",
+        "exapnd": "NONE"
+      }
+    ],
+    "14": [
+      {
+        "id": "ashrei",
+        "title": "ashreiTitle",
+        "text": "ashrei",
+        "addToMenu": true
+      },
+      {
+        "id": "igdalNa",
+        "text": "ptihaSlihot"
+      },
+      {
+        "id": "firstKadish",
+        "text": "HATZI",
+        "exapnd": "NONE"
+      },
+      {
+        "id": "lechaHashem",
+        "title": "amidaSofTitle",
+        "text": "lechaHshemErevKippurSfarad"
+      },
+      {
+        "id": "firstYag",
+        "title": "yagTitle",
+        "text": "yagSlihotSfarad",
+        "addToMenu": true
+      },
+      {
+        "id": "afterFirstYag",
+        "text": "maItzdakAfterYag"
+      },
+      {
+        "id": "adonDinIm",
+        "title": "pticha{85}",
+        "text": "adonDinIm",
+        "addToMenu": true
+      },
+      {
+        "id": "elMelech1",
+        "title": "elMelechTitle",
+        "text": "elMelechSfarad"
+      },
+      {
+        "id": "afterElMelechSfarad141",
+        "text": "afterElMelechSfarad141"
+      },
+      {
+        "id": "adonBefokdecha",
+        "title": "slicha{86}",
+        "text": "adonBefokdecha",
+        "addToMenu": true
+      },
+      {
+        "id": "elMelech2",
+        "title": "elMelechTitle",
+        "text": "elMelechSfarad"
+      },
+      {
+        "id": "yeratzeZom",
+        "title": "pizmon{87}",
+        "text": "yeratzeZom",
+        "addToMenu": true
+      },
+      {
+        "id": "elMelech3",
+        "title": "elMelechTitle",
+        "text": "elMelechSfarad"
+      },
+      {
+        "id": "afterElMelech_2",
+        "text": "afterElMelech_2"
+      },
+      {
+        "id": "shmaKolenu",
+        "title": "shmaKolenuSlihotTitle",
+        "text": "shmaKolenuSlihot",
+        "addToMenu": true
+      },
+      {
+        "id": "viduy",
+        "title": "viduyTitle",
+        "text": "viduySlihotKippurSfarad",
+        "addToMenu": true
+      },
+      {
+        "id": "lastKadish",
+        "text": "TITKABAL",
+        "exapnd": "NONE"
+      }
+    ]
+  },
+  "ashkenaz": {
+    "1": [
+      {
+        "id": "ashrei",
+        "title": "ashreiTitle",
+        "text": "ashrei",
+        "addToMenu": true
+      },
+      {
+        "id": "firstKadish",
+        "text": "HATZI",
+        "exapnd": "NONE"
+      },
+      {
+        "id": "lechaHashem",
+        "title": "amidaSofTitle",
+        "text": "lechaHashemAshkenaz"
+      },
+      {
+        "id": "motsaeiMenucha",
+        "title": "pticha{1}",
+        "text": "slihaMotzash",
+        "addToMenu": true
+      },
+      {
+        "id": "firstYag",
+        "title": "yagTitle",
+        "text": "yagSlihotSfarad",
+        "addToMenu": true
+      },
+      {
+        "id": "afterFirstYag",
+        "text": "avadHasidAfterYag"
+      },
+      {
+        "id": "einMiIkraBetsedek",
+        "title": "slicha{2}",
+        "text": "einMiIkraBetsedek",
+        "addToMenu": true
+      },
+      {
+        "id": "elMelech1",
+        "title": "elMelechTitle",
+        "text": "elMelechSfarad"
+      },
+      {
+        "id": "afterElMelechAshkenaz11",
+        "text": "afterElMelechAshkenaz11"
+      },
+      {
+        "id": "shavatHinun",
+        "title": "slicha{3}",
+        "text": "shavatHinun",
+        "addToMenu": true
+      },
+      {
+        "id": "elMelech2",
+        "title": "elMelechTitle",
+        "text": "elMelechSfarad"
+      },
+      {
+        "id": "lishomaElHarina",
+        "title": "pizmon{4}",
+        "text": "lishomaElHarina",
+        "addToMenu": true
+      },
+      {
+        "id": "elMelech3",
+        "title": "elMelechTitle",
+        "text": "elMelechSfarad"
+      },
+      {
+        "id": "afterElMelechAshkenaz_2",
+        "text": "afterElMelechAshkenaz_2"
+      },
+      {
+        "id": "afterElMelech_2",
+        "text": "afterElMelech_2"
+      },
+      {
+        "id": "shmaKolenu",
+        "title": "shmaKolenuSlihotTitle",
+        "text": "shmaKolenuSlihot",
+        "addToMenu": true
+      },
+      {
+        "id": "viduy",
+        "title": "viduyTitle",
+        "text": "viduySlichotSfarad",
+        "addToMenu": true
+      },
+      {
+        "id": "elRachum",
+        "title": "elRahumTitle",
+        "text": "elRahumSfarad"
+      },
+      {
+        "id": "anenu",
+        "title": "anenuSlichotTitle",
+        "text": "anenuSlihotSfarad"
+      },
+      {
+        "id": "miSheana",
+        "title": "miSheanaTitle",
+        "text": "miSheana"
+      },
+      {
+        "id": "nefilat",
+        "title": "tahanunTitle",
+        "text": "nefilatSlihot"
+      },
+      {
+        "id": "slihotSof",
+        "text": "slihotSof"
+      },
+      {
+        "id": "vanachnuLoNeda",
+        "text": "vanachnuLoNeda"
+      },
+      {
+        "id": "lastKadish",
+        "text": "TITKABAL",
+        "exapnd": "NONE"
+      }
+    ],
+    "2": [
+      {
+        "id": "ashrei",
+        "title": "ashreiTitle",
+        "text": "ashrei",
+        "addToMenu": true
+      },
+      {
+        "id": "firstKadish",
+        "text": "HATZI",
+        "exapnd": "NONE"
+      },
+      {
+        "id": "lechaHashem",
+        "title": "amidaSofTitle",
+        "text": "lechaHashemAshkenaz"
+      },
+      {
+        "id": "firstYag",
+        "title": "yagTitle",
+        "text": "yagSlihotSfarad",
+        "addToMenu": true
+      },
+      {
+        "id": "afterFirstYag",
+        "text": "imAvonenuAfterYag"
+      },
+      {
+        "id": "imAvonenuRabu",
+        "title": "slicha{5}",
+        "text": "imAvonenuRabu",
+        "addToMenu": true
+      },
+      {
+        "id": "elMelech1",
+        "title": "elMelechTitle",
+        "text": "elMelechSfarad"
+      },
+      {
+        "id": "afterElMelechAshkenaz21",
+        "text": "afterElMelechAshkenaz21"
+      },
+      {
+        "id": "derashticha",
+        "title": "slicha{6}",
+        "text": "derashticha",
+        "addToMenu": true
+      },
+      {
+        "id": "elMelech2",
+        "title": "elMelechTitle",
+        "text": "elMelechSfarad"
+      },
+      {
+        "id": "israelNosha",
+        "title": "pizmon{7}",
+        "text": "israelNosha",
+        "addToMenu": true
+      },
+      {
+        "id": "elMelech3",
+        "title": "elMelechTitle",
+        "text": "elMelechSfarad"
+      },
+      {
+        "id": "afterElMelechAshkenaz_2",
+        "text": "afterElMelechAshkenaz_2"
+      },
+      {
+        "id": "afterElMelech_2",
+        "text": "afterElMelech_2"
+      },
+      {
+        "id": "shmaKolenu",
+        "title": "shmaKolenuSlihotTitle",
+        "text": "shmaKolenuSlihot",
+        "addToMenu": true
+      },
+      {
+        "id": "viduy",
+        "title": "viduyTitle",
+        "text": "viduySlichotSfarad",
+        "addToMenu": true
+      },
+      {
+        "id": "elRachum",
+        "title": "elRahumTitle",
+        "text": "elRahumSfarad"
+      },
+      {
+        "id": "anenu",
+        "title": "anenuSlichotTitle",
+        "text": "anenuSlihotSfarad"
+      },
+      {
+        "id": "miSheana",
+        "title": "miSheanaTitle",
+        "text": "miSheana"
+      },
+      {
+        "id": "nefilat",
+        "title": "tahanunTitle",
+        "text": "nefilatSlihot"
+      },
+      {
+        "id": "slihotSof",
+        "text": "slihotSof"
+      },
+      {
+        "id": "vanachnuLoNeda",
+        "text": "vanachnuLoNeda"
+      },
+      {
+        "id": "lastKadish",
+        "text": "TITKABAL",
+        "exapnd": "NONE"
+      }
+    ],
+    "3": [
+      {
+        "id": "ashrei",
+        "title": "ashreiTitle",
+        "text": "ashrei",
+        "addToMenu": true
+      },
+      {
+        "id": "firstKadish",
+        "text": "HATZI",
+        "exapnd": "NONE"
+      },
+      {
+        "id": "lechaHashem",
+        "title": "amidaSofTitle",
+        "text": "lechaHashemAshkenaz"
+      },
+      {
+        "id": "firstYag",
+        "title": "yagTitle",
+        "text": "yagSlihotSfarad",
+        "addToMenu": true
+      },
+      {
+        "id": "afterFirstYag",
+        "text": "boshnuAfterYag"
+      },
+      {
+        "id": "einKemidat",
+        "title": "slicha{8}",
+        "text": "einKemidat",
+        "addToMenu": true
+      },
+      {
+        "id": "elMelech1",
+        "title": "elMelechTitle",
+        "text": "elMelechSfarad"
+      },
+      {
+        "id": "afterElMelechAshkenaz31",
+        "text": "afterElMelechAshkenaz31"
+      },
+      {
+        "id": "aniYomIra",
+        "title": "slicha{9}",
+        "text": "aniYomIra",
+        "addToMenu": true
+      },
+      {
+        "id": "elMelech2",
+        "title": "elMelechTitle",
+        "text": "elMelechSfarad"
+      },
+      {
+        "id": "malacheyRahamim",
+        "title": "pizmon{10}",
+        "text": "malacheyRahamim",
+        "addToMenu": true
+      },
+      {
+        "id": "elMelech3",
+        "title": "elMelechTitle",
+        "text": "elMelechSfarad"
+      },
+      {
+        "id": "afterElMelechAshkenaz_2",
+        "text": "afterElMelechAshkenaz_2"
+      },
+      {
+        "id": "afterElMelech_2",
+        "text": "afterElMelech_2"
+      },
+      {
+        "id": "shmaKolenu",
+        "title": "shmaKolenuSlihotTitle",
+        "text": "shmaKolenuSlihot",
+        "addToMenu": true
+      },
+      {
+        "id": "viduy",
+        "title": "viduyTitle",
+        "text": "viduySlichotSfarad",
+        "addToMenu": true
+      },
+      {
+        "id": "elRachum",
+        "title": "elRahumTitle",
+        "text": "elRahumSfarad"
+      },
+      {
+        "id": "anenu",
+        "title": "anenuSlichotTitle",
+        "text": "anenuSlihotSfarad"
+      },
+      {
+        "id": "miSheana",
+        "title": "miSheanaTitle",
+        "text": "miSheana"
+      },
+      {
+        "id": "nefilat",
+        "title": "tahanunTitle",
+        "text": "nefilatSlihot"
+      },
+      {
+        "id": "slihotSof",
+        "text": "slihotSof"
+      },
+      {
+        "id": "vanachnuLoNeda",
+        "text": "vanachnuLoNeda"
+      },
+      {
+        "id": "lastKadish",
+        "text": "TITKABAL",
+        "exapnd": "NONE"
+      }
+    ],
+    "4": [
+      {
+        "id": "ashrei",
+        "title": "ashreiTitle",
+        "text": "ashrei",
+        "addToMenu": true
+      },
+      {
+        "id": "firstKadish",
+        "text": "HATZI",
+        "exapnd": "NONE"
+      },
+      {
+        "id": "lechaHashem",
+        "title": "amidaSofTitle",
+        "text": "lechaHashemAshkenaz"
+      },
+      {
+        "id": "firstYag",
+        "title": "yagTitle",
+        "text": "yagSlihotSfarad",
+        "addToMenu": true
+      },
+      {
+        "id": "afterFirstYag",
+        "text": "tovHashemAfterYag"
+      },
+      {
+        "id": "aniKeraticha",
+        "title": "slicha{11}",
+        "text": "aniKeraticha",
+        "addToMenu": true
+      },
+      {
+        "id": "elMelech1",
+        "title": "elMelechTitle",
+        "text": "elMelechSfarad"
+      },
+      {
+        "id": "afterElMelechAshkenaz41",
+        "text": "afterElMelechAshkenaz41"
+      },
+      {
+        "id": "ayeKolNifleotecha",
+        "title": "slicha{12}",
+        "text": "ayeKolNifleotecha",
+        "addToMenu": true
+      },
+      {
+        "id": "elMelech2",
+        "title": "elMelechTitle",
+        "text": "elMelechSfarad"
+      },
+      {
+        "id": "hokerHakol",
+        "title": "pizmon{10}",
+        "text": "hokerHakol",
+        "addToMenu": true
+      },
+      {
+        "id": "elMelech3",
+        "title": "elMelechTitle",
+        "text": "elMelechSfarad"
+      },
+      {
+        "id": "afterElMelechAshkenaz_2",
+        "text": "afterElMelechAshkenaz_2"
+      },
+      {
+        "id": "afterElMelech_2",
+        "text": "afterElMelech_2"
+      },
+      {
+        "id": "shmaKolenu",
+        "title": "shmaKolenuSlihotTitle",
+        "text": "shmaKolenuSlihot",
+        "addToMenu": true
+      },
+      {
+        "id": "viduy",
+        "title": "viduyTitle",
+        "text": "viduySlichotSfarad",
+        "addToMenu": true
+      },
+      {
+        "id": "elRachum",
+        "title": "elRahumTitle",
+        "text": "elRahumSfarad"
+      },
+      {
+        "id": "anenu",
+        "title": "anenuSlichotTitle",
+        "text": "anenuSlihotSfarad"
+      },
+      {
+        "id": "miSheana",
+        "title": "miSheanaTitle",
+        "text": "miSheana"
+      },
+      {
+        "id": "nefilat",
+        "title": "tahanunTitle",
+        "text": "nefilatSlihot"
+      },
+      {
+        "id": "slihotSof",
+        "text": "slihotSof"
+      },
+      {
+        "id": "vanachnuLoNeda",
+        "text": "vanachnuLoNeda"
+      },
+      {
+        "id": "lastKadish",
+        "text": "TITKABAL",
+        "exapnd": "NONE"
+      }
+    ],
+    "5": [
+      {
+        "id": "ashrei",
+        "title": "ashreiTitle",
+        "text": "ashrei",
+        "addToMenu": true
+      },
+      {
+        "id": "firstKadish",
+        "text": "HATZI",
+        "exapnd": "NONE"
+      },
+      {
+        "id": "lechaHashem",
+        "title": "amidaSofTitle",
+        "text": "lechaHashemAshkenaz"
+      },
+      {
+        "id": "firstYag",
+        "title": "yagTitle",
+        "text": "yagSlihotSfarad",
+        "addToMenu": true
+      },
+      {
+        "id": "afterFirstYag",
+        "text": "shuvMeharonAfterYag"
+      },
+      {
+        "id": "israelAmchaTehina",
+        "title": "slicha{14}",
+        "text": "israelAmchaTehina",
+        "addToMenu": true
+      },
+      {
+        "id": "elMelech1",
+        "title": "elMelechTitle",
+        "text": "elMelechSfarad"
+      },
+      {
+        "id": "afterElMelechAshkenaz51",
+        "text": "afterElMelechAshkenaz51"
+      },
+      {
+        "id": "elohimBeisraelGadol",
+        "title": "slicha{15}",
+        "text": "elohimBeisraelGadol",
+        "addToMenu": true
+      },
+      {
+        "id": "elMelech2",
+        "title": "elMelechTitle",
+        "text": "elMelechSfarad"
+      },
+      {
+        "id": "yashmienuSalachti",
+        "title": "slicha{16}",
+        "text": "yashmienuSalachti",
+        "addToMenu": true
+      },
+      {
+        "id": "elMelech3",
+        "title": "elMelechTitle",
+        "text": "elMelechSfarad"
+      },
+      {
+        "id": "afterElMelechAshkenaz_2",
+        "text": "afterElMelechAshkenaz_2"
+      },
+      {
+        "id": "afterElMelech_2",
+        "text": "afterElMelech_2"
+      },
+      {
+        "id": "shmaKolenu",
+        "title": "shmaKolenuSlihotTitle",
+        "text": "shmaKolenuSlihot",
+        "addToMenu": true
+      },
+      {
+        "id": "viduy",
+        "title": "viduyTitle",
+        "text": "viduySlichotSfarad",
+        "addToMenu": true
+      },
+      {
+        "id": "elRachum",
+        "title": "elRahumTitle",
+        "text": "elRahumSfarad"
+      },
+      {
+        "id": "anenu",
+        "title": "anenuSlichotTitle",
+        "text": "anenuSlihotSfarad"
+      },
+      {
+        "id": "miSheana",
+        "title": "miSheanaTitle",
+        "text": "miSheana"
+      },
+      {
+        "id": "nefilat",
+        "title": "tahanunTitle",
+        "text": "nefilatSlihot"
+      },
+      {
+        "id": "slihotSof",
+        "text": "slihotSof"
+      },
+      {
+        "id": "vanachnuLoNeda",
+        "text": "vanachnuLoNeda"
+      },
+      {
+        "id": "lastKadish",
+        "text": "TITKABAL",
+        "exapnd": "NONE"
+      }
+    ],
+    "6": [
+      {
+        "id": "ashrei",
+        "title": "ashreiTitle",
+        "text": "ashrei",
+        "addToMenu": true
+      },
+      {
+        "id": "firstKadish",
+        "text": "HATZI",
+        "exapnd": "NONE"
+      },
+      {
+        "id": "lechaHashem",
+        "title": "amidaSofTitle",
+        "text": "lechaHashemAshkenaz"
+      },
+      {
+        "id": "firstYag",
+        "title": "yagTitle",
+        "text": "yagSlihotSfarad",
+        "addToMenu": true
+      },
+      {
+        "id": "afterFirstYag",
+        "text": "kidemuEinaiAfterYag"
+      },
+      {
+        "id": "ekraBeshimcha",
+        "title": "slicha{17}",
+        "text": "ekraBeshimcha",
+        "addToMenu": true
+      },
+      {
+        "id": "elMelech1",
+        "title": "elMelechTitle",
+        "text": "elMelechSfarad"
+      },
+      {
+        "id": "afterElMelechAshkenaz61",
+        "text": "afterElMelechAshkenaz61"
+      },
+      {
+        "id": "bealunuAdonim",
+        "title": "slicha{18}",
+        "text": "bealunuAdonim",
+        "addToMenu": true
+      },
+      {
+        "id": "elMelech2",
+        "title": "elMelechTitle",
+        "text": "elMelechSfarad"
+      },
+      {
+        "id": "nafshiBishelatiPizmon",
+        "title": "pizmon{19}",
+        "text": "nafshiBishelatiPizmon",
+        "addToMenu": true
+      },
+      {
+        "id": "elMelech3",
+        "title": "elMelechTitle",
+        "text": "elMelechSfarad"
+      },
+      {
+        "id": "afterElMelechAshkenaz_2",
+        "text": "afterElMelechAshkenaz_2"
+      },
+      {
+        "id": "afterElMelech_2",
+        "text": "afterElMelech_2"
+      },
+      {
+        "id": "shmaKolenu",
+        "title": "shmaKolenuSlihotTitle",
+        "text": "shmaKolenuSlihot",
+        "addToMenu": true
+      },
+      {
+        "id": "viduy",
+        "title": "viduyTitle",
+        "text": "viduySlichotSfarad",
+        "addToMenu": true
+      },
+      {
+        "id": "elRachum",
+        "title": "elRahumTitle",
+        "text": "elRahumSfarad"
+      },
+      {
+        "id": "anenu",
+        "title": "anenuSlichotTitle",
+        "text": "anenuSlihotSfarad"
+      },
+      {
+        "id": "miSheana",
+        "title": "miSheanaTitle",
+        "text": "miSheana"
+      },
+      {
+        "id": "nefilat",
+        "title": "tahanunTitle",
+        "text": "nefilatSlihot"
+      },
+      {
+        "id": "slihotSof",
+        "text": "slihotSof"
+      },
+      {
+        "id": "vanachnuLoNeda",
+        "text": "vanachnuLoNeda"
+      },
+      {
+        "id": "lastKadish",
+        "text": "TITKABAL",
+        "exapnd": "NONE"
+      }
+    ],
+    "7": [
+      {
+        "id": "ashrei",
+        "title": "ashreiTitle",
+        "text": "ashrei",
+        "addToMenu": true
+      },
+      {
+        "id": "firstKadish",
+        "text": "HATZI",
+        "exapnd": "NONE"
+      },
+      {
+        "id": "lechaHashem",
+        "title": "amidaSofTitle",
+        "text": "lechaHashemAshkenaz"
+      },
+      {
+        "id": "firstYag",
+        "title": "yagTitle",
+        "text": "yagSlihotSfarad",
+        "addToMenu": true
+      },
+      {
+        "id": "afterFirstYag",
+        "text": "adMataiAfterYag"
+      },
+      {
+        "id": "betulatBatYehuda",
+        "title": "slicha{20}",
+        "text": "betulatBatYehuda",
+        "addToMenu": true
+      },
+      {
+        "id": "elMelech1",
+        "title": "elMelechTitle",
+        "text": "elMelechSfarad"
+      },
+      {
+        "id": "afterElMelechAshkenaz71",
+        "text": "afterElMelechAshkenaz71"
+      },
+      {
+        "id": "afasHod",
+        "title": "slicha{21}",
+        "text": "afasHod",
+        "addToMenu": true
+      },
+      {
+        "id": "elMelech2",
+        "title": "elMelechTitle",
+        "text": "elMelechSfarad"
+      },
+      {
+        "id": "imAvonenuAnu",
+        "title": "pizmon{22}",
+        "text": "imAvonenuAnu",
+        "addToMenu": true
+      },
+      {
+        "id": "elMelech3",
+        "title": "elMelechTitle",
+        "text": "elMelechSfarad"
+      },
+      {
+        "id": "afterElMelechAshkenaz_2",
+        "text": "afterElMelechAshkenaz_2"
+      },
+      {
+        "id": "afterElMelech_2",
+        "text": "afterElMelech_2"
+      },
+      {
+        "id": "shmaKolenu",
+        "title": "shmaKolenuSlihotTitle",
+        "text": "shmaKolenuSlihot",
+        "addToMenu": true
+      },
+      {
+        "id": "viduy",
+        "title": "viduyTitle",
+        "text": "viduySlichotSfarad",
+        "addToMenu": true
+      },
+      {
+        "id": "elRachum",
+        "title": "elRahumTitle",
+        "text": "elRahumSfarad"
+      },
+      {
+        "id": "anenu",
+        "title": "anenuSlichotTitle",
+        "text": "anenuSlihotSfarad"
+      },
+      {
+        "id": "miSheana",
+        "title": "miSheanaTitle",
+        "text": "miSheana"
+      },
+      {
+        "id": "nefilat",
+        "title": "tahanunTitle",
+        "text": "nefilatSlihot"
+      },
+      {
+        "id": "slihotSof",
+        "text": "slihotSof"
+      },
+      {
+        "id": "vanachnuLoNeda",
+        "text": "vanachnuLoNeda"
+      },
+      {
+        "id": "lastKadish",
+        "text": "TITKABAL",
+        "exapnd": "NONE"
+      }
+    ],
+    "8": [
+      {
+        "id": "ashrei",
+        "title": "ashreiTitle",
+        "text": "ashrei",
+        "addToMenu": true
+      },
+      {
+        "id": "firstKadish",
+        "text": "HATZI",
+        "exapnd": "NONE"
+      },
+      {
+        "id": "lechaHashem",
+        "title": "amidaSofTitle",
+        "text": "lechaHashemErevRoshShanaAshkenaz"
+      },
+      {
+        "id": "pticha",
+        "title": "slicha{23}",
+        "text": "ptihaRoshShana"
+      },
+      {
+        "id": "kiAlRachmecha",
+        "text": "kiAlRachmecha"
+      },
+      {
+        "id": "firstYag",
+        "title": "yagTitle",
+        "text": "yagSlihotSfarad",
+        "addToMenu": true
+      },
+      {
+        "id": "afterFirstYag",
+        "text": "alTavoAfterYag"
+      },
+      {
+        "id": "eichachaEftze",
+        "title": "slicha{24}",
+        "text": "eichachaEftze",
+        "addToMenu": true
+      },
+      {
+        "id": "elMelech1",
+        "title": "elMelechTitle",
+        "text": "elMelechSfarad"
+      },
+      {
+        "id": "afterElMelechAshkenaz81",
+        "text": "afterElMelechAshkenaz81"
+      },
+      {
+        "id": "adonMoedKetikach",
+        "title": "slicha{25}",
+        "text": "adonMoedKetikach",
+        "addToMenu": true
+      },
+      {
+        "id": "elMelech2",
+        "title": "elMelechTitle",
+        "text": "elMelechSfarad"
+      },
+      {
+        "id": "merubimZorchei",
+        "title": "slicha{26}",
+        "text": "merubimZorchei",
+        "addToMenu": true
+      },
+      {
+        "id": "elMelech3",
+        "title": "elMelechTitle",
+        "text": "elMelechSfarad"
+      },
+      {
+        "id": "afterElMelechAshkenaz82",
+        "text": "afterElMelechAshkenaz82"
+      },
+      {
+        "id": "anaOrera",
+        "title": "slicha{27}",
+        "text": "anaOrera",
+        "addToMenu": true
+      },
+      {
+        "id": "elMelech4",
+        "title": "elMelechTitle",
+        "text": "elMelechSfarad"
+      },
+      {
+        "id": "afterElMelechAshkenaz83",
+        "text": "afterElMelechAshkenaz83"
+      },
+      {
+        "id": "elEloahDalfa",
+        "title": "slicha{28}",
+        "text": "elEloahDalfa",
+        "addToMenu": true
+      },
+      {
+        "id": "elMelech5",
+        "title": "elMelechTitle",
+        "text": "elMelechSfarad"
+      },
+      {
+        "id": "afterElMelechAshkenaz85",
+        "text": "afterElMelechAshkenaz85"
+      },
+      {
+        "id": "elEmuna",
+        "title": "slicha{29}",
+        "text": "elEmuna",
+        "addToMenu": true
+      },
+      {
+        "id": "elMelech6",
+        "title": "elMelechTitle",
+        "text": "elMelechSfarad"
+      },
+      {
+        "id": "afterElMelechAshkenaz86",
+        "text": "afterElMelechAshkenaz86"
+      },
+      {
+        "id": "elohimIreLo",
+        "title": "slicha{30}",
+        "text": "elohimIreLo",
+        "addToMenu": true
+      },
+      {
+        "id": "elMelech7",
+        "title": "elMelechTitle",
+        "text": "elMelechSfarad"
+      },
+      {
+        "id": "afterElMelechAshkenaz87",
+        "text": "afterElMelechAshkenaz87"
+      },
+      {
+        "id": "emetAtaHuRishon",
+        "title": "slicha{31}",
+        "text": "emetAtaHuRishon",
+        "addToMenu": true
+      },
+      {
+        "id": "elMelech8",
+        "title": "elMelechTitle",
+        "text": "elMelechSfarad"
+      },
+      {
+        "id": "afterElMelechAshkenaz88",
+        "text": "afterElMelechAshkenaz88"
+      },
+      {
+        "id": "hayimArukim",
+        "title": "slicha{32}",
+        "text": "hayimArukim",
+        "addToMenu": true
+      },
+      {
+        "id": "elMelech9",
+        "title": "elMelechTitle",
+        "text": "elMelechSfarad"
+      },
+      {
+        "id": "afterElMelechAshkenaz89",
+        "text": "afterElMelechAshkenaz89"
+      },
+      {
+        "id": "melechEchad",
+        "title": "slicha{33}",
+        "text": "melechEchad",
+        "addToMenu": true
+      },
+      {
+        "id": "elMelech10",
+        "title": "elMelechTitle",
+        "text": "elMelechSfarad"
+      },
+      {
+        "id": "afterElMelechAshkenaz810",
+        "text": "afterElMelechAshkenaz810"
+      },
+      {
+        "id": "adonBefokdecha",
+        "title": "slicha{34}",
+        "text": "adonBefokdecha",
+        "addToMenu": true
+      },
+      {
+        "id": "elMelech11",
+        "title": "elMelechTitle",
+        "text": "elMelechSfarad"
+      },
+      {
+        "id": "afterElMelechAshkenaz811",
+        "text": "afterElMelechAshkenaz811"
+      },
+      {
+        "id": "adonBeshoftecha",
+        "title": "slicha{35}",
+        "text": "adonBeshoftecha",
+        "addToMenu": true
+      },
+      {
+        "id": "elMelech12",
+        "title": "elMelechTitle",
+        "text": "elMelechSfarad"
+      },
+      {
+        "id": "afterElMelechAshkenaz812",
+        "text": "afterElMelechAshkenaz812"
+      },
+      {
+        "id": "ezakElElohim",
+        "title": "slicha{36}",
+        "text": "ezakElElohim",
+        "addToMenu": true
+      },
+      {
+        "id": "elMelech13",
+        "title": "elMelechTitle",
+        "text": "elMelechSfarad"
+      },
+      {
+        "id": "afterElMelechAshkenaz813",
+        "text": "afterElMelechAshkenaz813"
+      },
+      {
+        "id": "avLerachem",
+        "title": "slicha{37}",
+        "text": "avLerachem",
+        "addToMenu": true
+      },
+      {
+        "id": "elMelech14",
+        "title": "elMelechTitle",
+        "text": "elMelechSfarad"
+      },
+      {
+        "id": "afterElMelechAshkenaz814",
+        "text": "afterElMelechAshkenaz814"
+      },
+      {
+        "id": "shloshEsreMidot",
+        "title": "slicha{38}",
+        "text": "shloshEsreMidot",
+        "addToMenu": true
+      },
+      {
+        "id": "elMelech15",
+        "title": "elMelechTitle",
+        "text": "elMelechSfarad"
+      },
+      {
+        "id": "afterElMelechAshkenaz815",
+        "text": "afterElMelechAshkenaz815"
+      },
+      {
+        "id": "mefaltiEli",
+        "title": "slicha{39}",
+        "text": "mefaltiEli",
+        "addToMenu": true
+      },
+      {
+        "id": "elMelech16",
+        "title": "elMelechTitle",
+        "text": "elMelechSfarad"
+      },
+      {
+        "id": "afterElMelechAshkenaz816",
+        "text": "afterElMelechAshkenaz816"
+      },
+      {
+        "id": "olatHabokerAshkenaz",
+        "title": "slicha{40}",
+        "text": "olatHabokerAshkenaz",
+        "addToMenu": true
+      },
+      {
+        "id": "elMelech17",
+        "title": "elMelechTitle",
+        "text": "elMelechSfarad"
+      },
+      {
+        "id": "afterElMelechAshkenaz_2",
+        "text": "afterElMelechAshkenaz_2"
+      },
+      {
+        "id": "adterElMelechAshkenaz_2_16",
+        "text": "adterElMelechAshkenaz_2_16"
+      },
+      {
+        "id": "elechaZuri",
+        "title": "slicha{41}",
+        "text": "elechaZuri",
+        "addToMenu": true
+      },
+      {
+        "id": "zechorBerit",
+        "title": "slicha{42}",
+        "text": "zechorBerit",
+        "addToMenu": true
+      },
+      {
+        "id": "afterZechirBeritAshkenaz",
+        "text": "afterZechirBeritAshkenaz"
+      },
+      {
+        "id": "malkenuBanu",
+        "text": "malkenuBanu"
+      },
+      {
+        "id": "shmaKolenu",
+        "title": "shmaKolenuSlihotTitle",
+        "text": "shmaKolenuSlihot",
+        "addToMenu": true
+      },
+      {
+        "id": "viduy",
+        "title": "viduyTitle",
+        "text": "viduySlihotRoshShanaAshkenaz",
+        "addToMenu": true
+      },
+      {
+        "id": "elRachum",
+        "title": "elRahumTitle",
+        "text": "elRahumSfarad"
+      },
+      {
+        "id": "anenu",
+        "title": "anenuSlichotTitle",
+        "text": "anenuSlihotSfarad"
+      },
+      {
+        "id": "miSheana",
+        "title": "miSheanaTitle",
+        "text": "miSheana"
+      },
+      {
+        "id": "nefilat",
+        "title": "tahanunTitle",
+        "text": "nefilatSlihot"
+      },
+      {
+        "id": "enkatMesaldecha",
+        "title": "slicha{43}",
+        "text": "enkatMesaldecha",
+        "addToMenu": true
+      },
+      {
+        "id": "tfilaTikach",
+        "title": "slicha{44}",
+        "text": "tfilaTikach",
+        "addToMenu": true
+      },
+      {
+        "id": "slihotSof",
+        "text": "slihotSof"
+      },
+      {
+        "id": "adoneHaadonim",
+        "title": "slicha{45}",
+        "text": "adoneHaadonim",
+        "addToMenu": true
+      },
+      {
+        "id": "vanachnuLoNeda",
+        "text": "vanachnuLoNeda"
+      },
+      {
+        "id": "lastKadish",
+        "text": "TITKABAL",
+        "exapnd": "NONE"
+      }
+    ],
+    "9": [
+      {
+        "id": "ashrei",
+        "title": "ashreiTitle",
+        "text": "ashrei",
+        "addToMenu": true
+      },
+      {
+        "id": "firstKadish",
+        "text": "HATZI",
+        "exapnd": "NONE"
+      },
+      {
+        "id": "lechaHashem",
+        "title": "amidaSofTitle",
+        "text": "lechaHashemAshkenaz"
+      },
+      {
+        "id": "pticha",
+        "title": "slicha{46}",
+        "text": "azTerem"
+      },
+      {
+        "id": "kiAlRachmecha",
+        "text": "kiAlRachmecha"
+      },
+      {
+        "id": "firstYag",
+        "title": "yagTitle",
+        "text": "yagSlihotSfarad",
+        "addToMenu": true
+      },
+      {
+        "id": "afterFirstYag",
+        "text": "dirshuAfterYagAshkenaz"
+      },
+      {
+        "id": "etHashemBehimatseo",
+        "title": "slicha{47}",
+        "text": "etHashemBehimatseo",
+        "addToMenu": true
+      },
+      {
+        "id": "elMelech1",
+        "title": "elMelechTitle",
+        "text": "elMelechSfarad"
+      },
+      {
+        "id": "afterElMelechAshkenaz91",
+        "text": "afterElMelechAshkenaz91"
+      },
+      {
+        "id": "avlaNafshi",
+        "title": "slicha{48}",
+        "text": "avlaNafshi",
+        "addToMenu": true
+      },
+      {
+        "id": "elMelech2",
+        "title": "elMelechTitle",
+        "text": "elMelechSfarad"
+      },
+      {
+        "id": "afterElMelechAshkenaz92",
+        "text": "afterElMelechAshkenaz92"
+      },
+      {
+        "id": "imantaMeaz",
+        "title": "slicha{49}",
+        "text": "imantaMeaz",
+        "addToMenu": true
+      },
+      {
+        "id": "elMelech3",
+        "title": "elMelechTitle",
+        "text": "elMelechSfarad"
+      },
+      {
+        "id": "afterElMelechAshkenaz93",
+        "text": "afterElMelechAshkenaz93"
+      },
+      {
+        "id": "amitechaShelach",
+        "title": "slicha{50}",
+        "text": "amitechaShelach",
+        "addToMenu": true
+      },
+      {
+        "id": "elMelech4",
+        "title": "elMelechTitle",
+        "text": "elMelechSfarad"
+      },
+      {
+        "id": "afterElMelechAshkenaz94",
+        "text": "afterElMelechAshkenaz94"
+      },
+      {
+        "id": "tashuvTerahamenuShuv",
+        "title": "slicha{51}",
+        "text": "tashuvTerahamenuShuv",
+        "addToMenu": true
+      },
+      {
+        "id": "elMelech5",
+        "title": "elMelechTitle",
+        "text": "elMelechSfarad"
+      },
+      {
+        "id": "afterElMelechAshkenaz95",
+        "text": "afterElMelechAshkenaz95"
+      },
+      {
+        "id": "imAfesSfarad",
+        "title": "slicha{52}",
+        "text": "imAfesSfarad",
+        "addToMenu": true
+      },
+      {
+        "id": "elMelech6",
+        "title": "elMelechTitle",
+        "text": "elMelechSfarad"
+      },
+      {
+        "id": "horetaDerech",
+        "title": "slicha{53}",
+        "text": "horetaDerech",
+        "addToMenu": true
+      },
+      {
+        "id": "elMelech7",
+        "title": "elMelechTitle",
+        "text": "elMelechSfarad"
+      },
+      {
+        "id": "afterElMelechAshkenaz97",
+        "text": "afterElMelechAshkenaz97"
+      },
+      {
+        "id": "yakruReecha",
+        "title": "slicha{54}",
+        "text": "yakruReecha",
+        "addToMenu": true
+      },
+      {
+        "id": "zechorBerit",
+        "title": "slicha{55}",
+        "text": "zechorBerit",
+        "addToMenu": true
+      },
+      {
+        "id": "ayahedZuri",
+        "title": "slicha{56}",
+        "text": "ayahedZuri",
+        "addToMenu": true
+      },
+      {
+        "id": "shmaKolenu",
+        "title": "shmaKolenuSlihotTitle",
+        "text": "shmaKolenuSlihot",
+        "addToMenu": true
+      },
+      {
+        "id": "viduy",
+        "title": "viduyTitle",
+        "text": "viduySlihotAshkenaz",
+        "addToMenu": true
+      },
+      {
+        "id": "yaazovRasha",
+        "title": "slicha{57}",
+        "text": "yaazovRasha",
+        "addToMenu": true
+      },
+      {
+        "id": "elRachum",
+        "title": "elRahumTitle",
+        "text": "elRahumSfarad"
+      },
+      {
+        "id": "anenu",
+        "title": "anenuSlichotTitle",
+        "text": "anenuSlihotSfarad"
+      },
+      {
+        "id": "miSheana",
+        "title": "miSheanaTitle",
+        "text": "miSheana"
+      },
+      {
+        "id": "nefilat",
+        "title": "tahanunTitle",
+        "text": "nefilatSlihot"
+      },
+      {
+        "id": "torahHakdosha",
+        "title": "slicha{58}",
+        "text": "torahHakdosha",
+        "addToMenu": true
+      },
+      {
+        "id": "slihotSof",
+        "text": "slihotSof"
+      },
+      {
+        "id": "groniNichar",
+        "title": "slicha{59}",
+        "text": "groniNichar",
+        "addToMenu": true
+      },
+      {
+        "id": "vanachnuLoNeda",
+        "text": "vanachnuLoNeda"
+      },
+      {
+        "id": "lastKadish",
+        "text": "TITKABAL",
+        "exapnd": "NONE"
+      }
+    ],
+    "10": [
+      {
+        "id": "ashrei",
+        "title": "ashreiTitle",
+        "text": "ashrei",
+        "addToMenu": true
+      },
+      {
+        "id": "firstKadish",
+        "text": "HATZI",
+        "exapnd": "NONE"
+      },
+      {
+        "id": "lechaHashem",
+        "title": "amidaSofTitle",
+        "text": "lechaHashemAshkenaz"
+      },
+      {
+        "id": "pticha",
+        "title": "slicha{60}",
+        "text": "elechaLev"
+      },
+      {
+        "id": "kiAlRachmecha",
+        "text": "kiAlRachmecha"
+      },
+      {
+        "id": "firstYag",
+        "title": "yagTitle",
+        "text": "yagSlihotSfarad",
+        "addToMenu": true
+      },
+      {
+        "id": "afterFirstYag",
+        "text": "elechaAfterYagAshkenaz"
+      },
+      {
+        "id": "achBecha",
+        "title": "slicha{61}",
+        "text": "achBecha",
+        "addToMenu": true
+      },
+      {
+        "id": "elMelech1",
+        "title": "elMelechTitle",
+        "text": "elMelechSfarad"
+      },
+      {
+        "id": "afterElMelechAshkenaz101",
+        "text": "afterElMelechAshkenaz101"
+      },
+      {
+        "id": "aryeByaar",
+        "title": "slicha{62}",
+        "text": "aryeByaar",
+        "addToMenu": true
+      },
+      {
+        "id": "elMelech2",
+        "title": "elMelechTitle",
+        "text": "elMelechSfarad"
+      },
+      {
+        "id": "afterElMelchaAshkenaz102",
+        "text": "afterElMelchaAshkenaz102"
+      },
+      {
+        "id": "einBiltecha",
+        "title": "slicha{63}",
+        "text": "einBiltecha",
+        "addToMenu": true
+      },
+      {
+        "id": "elMelech3",
+        "title": "elMelechTitle",
+        "text": "elMelechSfarad"
+      },
+      {
+        "id": "afterElMelechAshkenaz103",
+        "text": "afterElMelechAshkenaz103"
+      },
+      {
+        "id": "eichaUchalAvo",
+        "title": "slicha{64}",
+        "text": "eichaUchalAvo",
+        "addToMenu": true
+      },
+      {
+        "id": "elMelech4",
+        "title": "elMelechTitle",
+        "text": "elMelechSfarad"
+      },
+      {
+        "id": "afterElMelechAshkenaz104",
+        "text": "afterElMelechAshkenaz104"
+      },
+      {
+        "id": "ezrachiMeever",
+        "title": "slicha{65}",
+        "text": "ezrachiMeever",
+        "addToMenu": true
+      },
+      {
+        "id": "elMelech5",
+        "title": "elMelechTitle",
+        "text": "elMelechSfarad"
+      },
+      {
+        "id": "beashmoretHaboker",
+        "title": "slicha{66}",
+        "text": "beashmoretHaboker",
+        "addToMenu": true
+      },
+      {
+        "id": "elMelech6",
+        "title": "elMelechTitle",
+        "text": "elMelechSfarad"
+      },
+      {
+        "id": "afterMelech6",
+        "text": "afterElMelechAshkenaz97"
+      },
+      {
+        "id": "hatanuZurenu",
+        "title": "slicha{67}",
+        "text": "hatanuZurenu",
+        "addToMenu": true
+      },
+      {
+        "id": "zechorLanu",
+        "text": "zechorLanuAshkenaz"
+      },
+      {
+        "id": "aseImanuAshkenaz",
+        "text": "aseImanuAshkenaz"
+      },
+      {
+        "id": "shmaKolenu",
+        "title": "shmaKolenuSlihotTitle",
+        "text": "shmaKolenuSlihot",
+        "addToMenu": true
+      },
+      {
+        "id": "viduy",
+        "title": "viduyTitle",
+        "text": "viduySlihotAshkenaz",
+        "addToMenu": true
+      },
+      {
+        "id": "elRachum",
+        "title": "elRahumTitle",
+        "text": "elRahumSfarad"
+      },
+      {
+        "id": "anenu",
+        "title": "anenuSlichotTitle",
+        "text": "anenuSlihotSfarad"
+      },
+      {
+        "id": "miSheana",
+        "title": "miSheanaTitle",
+        "text": "miSheana"
+      },
+      {
+        "id": "nefilat",
+        "title": "tahanunTitle",
+        "text": "nefilatSlihot"
+      },
+      {
+        "id": "shevetHakise",
+        "title": "slicha{68}",
+        "text": "shevetHakise",
+        "addToMenu": true
+      },
+      {
+        "id": "slihotSof",
+        "text": "slihotSof"
+      },
+      {
+        "id": "vanachnuLoNeda",
+        "text": "vanachnuLoNeda"
+      },
+      {
+        "id": "lastKadish",
+        "text": "TITKABAL",
+        "exapnd": "NONE"
+      }
+    ],
+    "11": [
+      {
+        "id": "ashrei",
+        "title": "ashreiTitle",
+        "text": "ashrei",
+        "addToMenu": true
+      },
+      {
+        "id": "firstKadish",
+        "text": "HATZI",
+        "exapnd": "NONE"
+      },
+      {
+        "id": "lechaHashem",
+        "title": "amidaSofTitle",
+        "text": "lechaHashemAshkenaz"
+      },
+      {
+        "id": "pticha",
+        "title": "slicha{69}",
+        "text": "shicharnuchaBikashnucha"
+      },
+      {
+        "id": "kiAlRachmecha",
+        "text": "kiAlRachmecha"
+      },
+      {
+        "id": "firstYag",
+        "title": "yagTitle",
+        "text": "yagSlihotSfarad",
+        "addToMenu": true
+      },
+      {
+        "id": "afterFirstYag",
+        "text": "elechaShivanuAfterYagAshkenaz"
+      },
+      {
+        "id": "haelEinei",
+        "title": "slicha{70}",
+        "text": "haelEinei",
+        "addToMenu": true
+      },
+      {
+        "id": "elMelech1",
+        "title": "elMelechTitle",
+        "text": "elMelechSfarad"
+      },
+      {
+        "id": "afterElMelechAshkenaz111",
+        "text": "afterElMelechAshkenaz111"
+      },
+      {
+        "id": "taarogElecha",
+        "title": "slicha{71}",
+        "text": "taarogElecha",
+        "addToMenu": true
+      },
+      {
+        "id": "elMelech2",
+        "title": "elMelechTitle",
+        "text": "elMelechSfarad"
+      },
+      {
+        "id": "afterElMelechAshkenaz112",
+        "text": "afterElMelechAshkenaz112"
+      },
+      {
+        "id": "shomamtiBerovYegoni",
+        "title": "slicha{72}",
+        "text": "shomamtiBerovYegoni",
+        "addToMenu": true
+      },
+      {
+        "id": "elMelech3",
+        "title": "elMelechTitle",
+        "text": "elMelechSfarad"
+      },
+      {
+        "id": "afterElMelechAshkenaz113",
+        "text": "afterElMelechAshkenaz113"
+      },
+      {
+        "id": "yerushalimAtHaleli",
+        "title": "slicha{73}",
+        "text": "yerushalimAtHaleli",
+        "addToMenu": true
+      },
+      {
+        "id": "elMelech4",
+        "title": "elMelechTitle",
+        "text": "elMelechSfarad"
+      },
+      {
+        "id": "afterElMelechAshkenaz114",
+        "text": "afterElMelechAshkenaz114"
+      },
+      {
+        "id": "ezrachiHeir",
+        "title": "slicha{74}",
+        "text": "ezrachiHeir",
+        "addToMenu": true
+      },
+      {
+        "id": "elMelech5",
+        "title": "elMelechTitle",
+        "text": "elMelechSfarad"
+      },
+      {
+        "id": "shaharKamti",
+        "title": "slicha{75}",
+        "text": "shaharKamti",
+        "addToMenu": true
+      },
+      {
+        "id": "elMelech6",
+        "title": "elMelechTitle",
+        "text": "elMelechSfarad"
+      },
+      {
+        "id": "afterMelech6",
+        "text": "afterElMelechAshkenaz97"
+      },
+      {
+        "id": "hatanuZurenuYoshev",
+        "title": "slicha{76}",
+        "text": "hatanuZurenuYoshev",
+        "addToMenu": true
+      },
+      {
+        "id": "zechorLanu",
+        "text": "zechorLanuAshkenaz"
+      },
+      {
+        "id": "aseImanuAshkenaz",
+        "text": "aseImanuAshkenaz"
+      },
+      {
+        "id": "shmaKolenu",
+        "title": "shmaKolenuSlihotTitle",
+        "text": "shmaKolenuSlihot",
+        "addToMenu": true
+      },
+      {
+        "id": "viduy",
+        "title": "viduyTitle",
+        "text": "viduySlihotAshkenaz",
+        "addToMenu": true
+      },
+      {
+        "id": "elRachum",
+        "title": "elRahumTitle",
+        "text": "elRahumSfarad"
+      },
+      {
+        "id": "anenu",
+        "title": "anenuSlichotTitle",
+        "text": "anenuSlihotSfarad"
+      },
+      {
+        "id": "miSheana",
+        "title": "miSheanaTitle",
+        "text": "miSheana"
+      },
+      {
+        "id": "nefilat",
+        "title": "tahanunTitle",
+        "text": "nefilatSlihot"
+      },
+      {
+        "id": "shaareiShmaim",
+        "title": "slicha{77}",
+        "text": "shaareiShmaim",
+        "addToMenu": true
+      },
+      {
+        "id": "slihotSof",
+        "text": "slihotSof"
+      },
+      {
+        "id": "vanachnuLoNeda",
+        "text": "vanachnuLoNeda"
+      },
+      {
+        "id": "lastKadish",
+        "text": "TITKABAL",
+        "exapnd": "NONE"
+      }
+    ],
+    "12": [
+      {
+        "id": "ashrei",
+        "title": "ashreiTitle",
+        "text": "ashrei",
+        "addToMenu": true
+      },
+      {
+        "id": "firstKadish",
+        "text": "HATZI",
+        "exapnd": "NONE"
+      },
+      {
+        "id": "lechaHashem",
+        "title": "amidaSofTitle",
+        "text": "lechaHashemAshkenaz"
+      },
+      {
+        "id": "pticha",
+        "title": "slicha{78}",
+        "text": "hatanuZurenuEshet"
+      },
+      {
+        "id": "kiAlRachmecha",
+        "text": "kiAlRachmecha"
+      },
+      {
+        "id": "firstYag",
+        "title": "yagTitle",
+        "text": "yagSlihotSfarad",
+        "addToMenu": true
+      },
+      {
+        "id": "afterFirstYag",
+        "text": "afterYagAshkenaz12"
+      },
+      {
+        "id": "omnamAnachnu",
+        "title": "slicha{79}",
+        "text": "omnamAnachnu",
+        "addToMenu": true
+      },
+      {
+        "id": "elMelech1",
+        "title": "elMelechTitle",
+        "text": "elMelechSfarad"
+      },
+      {
+        "id": "afterElMelechAshkenaz121",
+        "text": "afterElMelechAshkenaz121"
+      },
+      {
+        "id": "arbaaAvot",
+        "title": "slicha{80}",
+        "text": "arbaaAvot",
+        "addToMenu": true
+      },
+      {
+        "id": "elMelech2",
+        "title": "elMelechTitle",
+        "text": "elMelechSfarad"
+      },
+      {
+        "id": "afterElMelechAshkenaz122",
+        "text": "afterElMelechAshkenaz122"
+      },
+      {
+        "id": "ataHelkiVezur",
+        "title": "slicha{81}",
+        "text": "ataHelkiVezur",
+        "addToMenu": true
+      },
+      {
+        "id": "elMelech3",
+        "title": "elMelechTitle",
+        "text": "elMelechSfarad"
+      },
+      {
+        "id": "afterElMelechAshkenaz123",
+        "text": "afterElMelechAshkenaz123"
+      },
+      {
+        "id": "shalomTishpot",
+        "title": "slicha{82}",
+        "text": "shalomTishpot",
+        "addToMenu": true
+      },
+      {
+        "id": "elMelech4",
+        "title": "elMelechTitle",
+        "text": "elMelechSfarad"
+      },
+      {
+        "id": "afterElMelechAshkenaz124",
+        "text": "afterElMelechAshkenaz124"
+      },
+      {
+        "id": "eitanLimed",
+        "title": "slicha{83}",
+        "text": "eitanLimed",
+        "addToMenu": true
+      },
+      {
+        "id": "elMelech5",
+        "title": "elMelechTitle",
+        "text": "elMelechSfarad"
+      },
+      {
+        "id": "benKese",
+        "title": "slicha{84}",
+        "text": "benKese",
+        "addToMenu": true
+      },
+      {
+        "id": "elMelech6",
+        "title": "elMelechTitle",
+        "text": "elMelechSfarad"
+      },
+      {
+        "id": "afterMelech6",
+        "text": "afterElMelechAshkenaz97"
+      },
+      {
+        "id": "hatanuZurenuArid",
+        "title": "slicha{85}",
+        "text": "hatanuZurenuArid",
+        "addToMenu": true
+      },
+      {
+        "id": "zechorLanu",
+        "text": "zechorLanuAshkenaz"
+      },
+      {
+        "id": "aseImanuAshkenaz",
+        "text": "aseImanuAshkenaz"
+      },
+      {
+        "id": "shmaKolenu",
+        "title": "shmaKolenuSlihotTitle",
+        "text": "shmaKolenuSlihot",
+        "addToMenu": true
+      },
+      {
+        "id": "viduy",
+        "title": "viduyTitle",
+        "text": "viduySlihotAshkenaz",
+        "addToMenu": true
+      },
+      {
+        "id": "elRachum",
+        "title": "elRahumTitle",
+        "text": "elRahumSfarad"
+      },
+      {
+        "id": "anenu",
+        "title": "anenuSlichotTitle",
+        "text": "anenuSlihotSfarad"
+      },
+      {
+        "id": "miSheana",
+        "title": "miSheanaTitle",
+        "text": "miSheana"
+      },
+      {
+        "id": "nefilat",
+        "title": "tahanunTitle",
+        "text": "nefilatSlihot"
+      },
+      {
+        "id": "melechMelachimRam",
+        "title": "slicha{86}",
+        "text": "melechMelachimRam",
+        "addToMenu": true
+      },
+      {
+        "id": "slihotSof",
+        "text": "slihotSof"
+      },
+      {
+        "id": "vanachnuLoNeda",
+        "text": "vanachnuLoNeda"
+      },
+      {
+        "id": "lastKadish",
+        "text": "TITKABAL",
+        "exapnd": "NONE"
+      }
+    ],
+    "13": [
+      {
+        "id": "ashrei",
+        "title": "ashreiTitle",
+        "text": "ashrei",
+        "addToMenu": true
+      },
+      {
+        "id": "firstKadish",
+        "text": "HATZI",
+        "exapnd": "NONE"
+      },
+      {
+        "id": "lechaHashem",
+        "title": "amidaSofTitle",
+        "text": "lechaHashemAshkenaz"
+      },
+      {
+        "id": "pticha",
+        "title": "slicha{87}",
+        "text": "amHashemHizku"
+      },
+      {
+        "id": "kiAlRachmecha",
+        "text": "kiAlRachmecha"
+      },
+      {
+        "id": "firstYag",
+        "title": "yagTitle",
+        "text": "yagSlihotSfarad",
+        "addToMenu": true
+      },
+      {
+        "id": "afterFirstYag",
+        "text": "afterYagAshkenaz13"
+      },
+      {
+        "id": "ataZadik",
+        "title": "slicha{88}",
+        "text": "ataZadik",
+        "addToMenu": true
+      },
+      {
+        "id": "elMelech1",
+        "title": "elMelechTitle",
+        "text": "elMelechSfarad"
+      },
+      {
+        "id": "afterElMelechAshkenaz131",
+        "text": "afterElMelechAshkenaz131"
+      },
+      {
+        "id": "ezonTahan",
+        "title": "slicha{89}",
+        "text": "ezonTahan",
+        "addToMenu": true
+      },
+      {
+        "id": "elMelech2",
+        "title": "elMelechTitle",
+        "text": "elMelechSfarad"
+      },
+      {
+        "id": "afterElMelechAshkenaz132",
+        "text": "afterElMelechAshkenaz132"
+      },
+      {
+        "id": "hashemHeli",
+        "title": "slicha{90}",
+        "text": "hashemHeli",
+        "addToMenu": true
+      },
+      {
+        "id": "elMelech3",
+        "title": "elMelechTitle",
+        "text": "elMelechSfarad"
+      },
+      {
+        "id": "afterElMelechAshkenaz133",
+        "text": "afterElMelechAshkenaz133"
+      },
+      {
+        "id": "ometsYosif",
+        "title": "slicha{91}",
+        "text": "ometsYosif",
+        "addToMenu": true
+      },
+      {
+        "id": "elMelech4",
+        "title": "elMelechTitle",
+        "text": "elMelechSfarad"
+      },
+      {
+        "id": "afterElMelechAshkenaz134",
+        "text": "afterElMelechAshkenaz134"
+      },
+      {
+        "id": "azBeharMor",
+        "title": "slicha{92}",
+        "text": "azBeharMor",
+        "addToMenu": true
+      },
+      {
+        "id": "elMelech5",
+        "title": "elMelechTitle",
+        "text": "elMelechSfarad"
+      },
+      {
+        "id": "hashemHashem",
+        "title": "slicha{93}",
+        "text": "hashemHashem",
+        "addToMenu": true
+      },
+      {
+        "id": "elMelech6",
+        "title": "elMelechTitle",
+        "text": "elMelechSfarad"
+      },
+      {
+        "id": "afterMelech6",
+        "text": "afterElMelechAshkenaz97"
+      },
+      {
+        "id": "eichNeencha",
+        "title": "slicha{94}",
+        "text": "eichNeencha",
+        "addToMenu": true
+      },
+      {
+        "id": "zechorBritAvadnu",
+        "title": "slicha{95}",
+        "text": "zechorBritAvadnu",
+        "addToMenu": true
+      },
+      {
+        "id": "shmaIsraelAmon",
+        "title": "slicha{96}",
+        "text": "shmaIsraelAmon",
+        "addToMenu": true
+      },
+      {
+        "id": "zechorLanu",
+        "text": "aseImanuAshkenaz"
+      },
+      {
+        "id": "shmaKolenu",
+        "title": "shmaKolenuSlihotTitle",
+        "text": "shmaKolenuSlihot",
+        "addToMenu": true
+      },
+      {
+        "id": "viduy",
+        "title": "viduyTitle",
+        "text": "viduySlihotAshkenaz",
+        "addToMenu": true
+      },
+      {
+        "id": "elRachum",
+        "title": "elRahumTitle",
+        "text": "elRahumSfarad"
+      },
+      {
+        "id": "anenu",
+        "title": "anenuSlichotTitle",
+        "text": "anenuSlihotSfarad"
+      },
+      {
+        "id": "miSheana",
+        "title": "miSheanaTitle",
+        "text": "miSheana"
+      },
+      {
+        "id": "nefilat",
+        "title": "tahanunTitle",
+        "text": "nefilatSlihot"
+      },
+      {
+        "id": "mikveIsraelMoshio",
+        "title": "slicha{97}",
+        "text": "mikveIsraelMoshio",
+        "addToMenu": true
+      },
+      {
+        "id": "slihotSof",
+        "text": "slihotSof"
+      },
+      {
+        "id": "vanachnuLoNeda",
+        "text": "vanachnuLoNeda"
+      },
+      {
+        "id": "lastKadish",
+        "text": "TITKABAL",
+        "exapnd": "NONE"
+      }
+    ],
+    "14": [
+      {
+        "id": "ashrei",
+        "title": "ashreiTitle",
+        "text": "ashrei",
+        "addToMenu": true
+      },
+      {
+        "id": "firstKadish",
+        "text": "HATZI",
+        "exapnd": "NONE"
+      },
+      {
+        "id": "lechaHashem",
+        "title": "amidaSofTitle",
+        "text": "lechaHashem16Ashkenaz"
+      },
+      {
+        "id": "firstYag",
+        "title": "yagTitle",
+        "text": "yagSlihotSfarad",
+        "addToMenu": true
+      },
+      {
+        "id": "afterFirstYag",
+        "text": "afterYagAshkenaz14"
+      },
+      {
+        "id": "adonBefokdecha",
+        "title": "slicha{98}",
+        "text": "adonBefokdecha",
+        "addToMenu": true
+      },
+      {
+        "id": "elMelech1",
+        "title": "elMelechTitle",
+        "text": "elMelechSfarad"
+      },
+      {
+        "id": "afterElMelechAshkenaz141",
+        "text": "afterElMelechAshkenaz141"
+      },
+      {
+        "id": "adonDinIm",
+        "title": "slicha{99}",
+        "text": "adonDinIm",
+        "addToMenu": true
+      },
+      {
+        "id": "elMelech2",
+        "title": "elMelechTitle",
+        "text": "elMelechSfarad"
+      },
+      {
+        "id": "yeratzeZom",
+        "title": "pizmon{100}",
+        "text": "yeratzeZom",
+        "addToMenu": true
+      },
+      {
+        "id": "elMelech3",
+        "title": "elMelechTitle",
+        "text": "elMelechSfarad"
+      },
+      {
+        "id": "afterElMelechAshkenaz_2",
+        "text": "afterElMelechAshkenaz_2"
+      },
+      {
+        "id": "afterElMelech_2",
+        "text": "afterElMelechAshkenaz_7"
+      },
+      {
+        "id": "zechorLanuBrit",
+        "text": "zechorLanuBrit"
+      },
+      {
+        "id": "shmaKolenu",
+        "title": "shmaKolenuSlihotTitle",
+        "text": "shmaKolenuSlihot",
+        "addToMenu": true
+      },
+      {
+        "id": "viduy",
+        "title": "viduyTitle",
+        "text": "viduyKippurAshkenaz",
+        "addToMenu": true
+      },
+      {
+        "id": "lastKadish",
+        "text": "TITKABAL",
+        "exapnd": "NONE"
+      }
+    ]
+  }
+}

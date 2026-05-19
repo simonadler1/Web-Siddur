@@ -1,0 +1,3574 @@
+{
+  "arvit": {
+    "generatorClass": "ArvitGenerator",
+    "rows": [
+      {
+        "title": "atsmaut_title",
+        "body": "tehilimBeforeAtsmaut"
+      },
+      {
+        "title": "yerushalyim_title",
+        "body": "yerushalyimMizmorim"
+      },
+      {
+        "title": "barechi_title",
+        "body": "barechiNafshi",
+        "nusach": "edot"
+      },
+      {
+        "title": "al_nahharot_title",
+        "body": "alNahharot",
+        "nusach": "edot"
+      },
+      {
+        "title": "haazinu_title",
+        "body": "haazinu",
+        "nusach": "edot"
+      },
+      {
+        "title": "leshemTitle",
+        "body": "yichudArvit",
+        "nusach": "edot"
+      },
+      {
+        "body": "beforKadishArvit",
+        "nusach": "edot"
+      },
+      {
+        "body": "shirArvitSefarad",
+        "nusach": "sfarad"
+      },
+      {
+        "body": "shirArvitChabad",
+        "nusach": "sfarad"
+      },
+      {
+        "body": "shirArvitChabad",
+        "nusach": "chabad"
+      },
+      {
+        "body": "afterKadishArvit"
+      },
+      {
+        "title": "barechuTitle",
+        "body": "barechu"
+      },
+      {
+        "body": "chazanSays"
+      },
+      {
+        "body": "kahalSays"
+      },
+      {
+        "title": "b1Arvit_title",
+        "body": "b1ArvitAshkenaz",
+        "nusach": "ashkenaz"
+      },
+      {
+        "body": "b1ArvitChabad",
+        "nusach": "chabad"
+      },
+      {
+        "body": "b1ArvitSefarad",
+        "nusach": "sfarad"
+      },
+      {
+        "body": "b1Arvit",
+        "nusach": "edot"
+      },
+      {
+        "title": "b2Arvit_title",
+        "body": "b2ArvitAshkenaz",
+        "nusach": "ashkenaz"
+      },
+      {
+        "body": "b2ArvitChabad",
+        "nusach": "chabad"
+      },
+      {
+        "body": "b2ArvitSefarad",
+        "nusach": "sfarad"
+      },
+      {
+        "body": "b2Arvit",
+        "nusach": "edot"
+      },
+      {
+        "title": "tzetZmanTitle",
+        "body": "elMelech"
+      },
+      {
+        "title": "b3Arvit_title",
+        "body": "b3ArvitAshkenaz",
+        "nusach": "ashkenaz"
+      },
+      {
+        "body": "b3ArvitChabad",
+        "nusach": "chabad"
+      },
+      {
+        "body": "b3ArvitSefarad",
+        "nusach": "sfarad"
+      },
+      {
+        "body": "b3Arvit",
+        "nusach": "edot"
+      },
+      {
+        "title": "b4Arvit_title",
+        "body": "b4ArvitAshkenaz",
+        "nusach": "ashkenaz"
+      },
+      {
+        "body": "b4ArvitChabad",
+        "nusach": "chabad"
+      },
+      {
+        "body": "b4ArvitSefarad",
+        "nusach": "sfarad"
+      },
+      {
+        "body": "b4Arvit",
+        "nusach": "edot"
+      },
+      {
+        "title": "baruchArvit_title",
+        "body": "barushHashm",
+        "nusach": "ashkenaz"
+      },
+      {
+        "title": "baruchArvit_title",
+        "body": "barushHashm",
+        "nusach": "sfarad"
+      },
+      {
+        "title": "yeshemTitle",
+        "body": "yeshem",
+        "nusach": "edot"
+      },
+      {
+        "title": "moztash_title",
+        "body": "mozashAshkenaz",
+        "nusach": "ashkenaz"
+      },
+      {
+        "body": "mozashChabad",
+        "nusach": "chabad"
+      },
+      {
+        "body": "mozashSefarad",
+        "nusach": "sfarad"
+      },
+      {
+        "body": "mozash",
+        "nusach": "edot"
+      },
+      {
+        "title": "blessBeforeEster_title",
+        "body": "blessBeforeEster"
+      },
+      {
+        "title": "ester_title",
+        "body": "ester1"
+      },
+      {
+        "title": "blessAfterEster_title",
+        "body": "blessAfterEster",
+        "nusach": "edot"
+      },
+      {
+        "body": "blessAfterEsterSefarad"
+      },
+      {
+        "body": "asherHeni"
+      },
+      {
+        "body": "arur",
+        "nusach": "edot"
+      },
+      {
+        "body": "shoshana"
+      },
+      {
+        "title": "uvaTitle",
+        "body": "whisper"
+      },
+      {
+        "title": "lemiEvke_title",
+        "body": "lemiEvke",
+        "nusach": "edot"
+      },
+      {
+        "title": "eicha_title",
+        "body": "eicha"
+      },
+      {
+        "title": "kinot_title",
+        "body": "kinot",
+        "nusach": "edot"
+      },
+      {
+        "body": "kinotAshkenaz",
+        "nusach": "ashkenaz"
+      },
+      {
+        "body": "kinaMotash",
+        "nusach": "ashkenaz"
+      },
+      {
+        "body": "kinotSefarad"
+      },
+      {
+        "body": "kinaMotash"
+      },
+      {
+        "title": "uvaTitle",
+        "body": "whisper"
+      },
+      {
+        "title": "kadishTitle",
+        "body": "kadishTishBov",
+        "nusach": "edot"
+      },
+      {
+        "title": "nechama_title",
+        "body": "nechamaErev",
+        "nusach": "edot"
+      },
+      {
+        "title": "yerushalyim_title",
+        "body": "afterKadishYerushalyim"
+      },
+      {
+        "title": "halelStartBlessTitle",
+        "body": "halelStartBless",
+        "nusach": "edot"
+      },
+      {
+        "body": "halelStartBlessSefarad"
+      },
+      {
+        "title": "halelS1Title",
+        "body": "halelS1"
+      },
+      {
+        "title": "halelS2Title",
+        "body": "halelS2"
+      },
+      {
+        "title": "halelS3Title",
+        "body": "halelS3"
+      },
+      {
+        "title": "halelS4Title",
+        "body": "halelS4"
+      },
+      {
+        "title": "halelS5Title",
+        "body": "halelS6"
+      },
+      {
+        "body": "halelS7"
+      },
+      {
+        "title": "halelS6Title",
+        "body": "halelS9"
+      },
+      {
+        "title": "halelEndBlessingTitle",
+        "body": "halelEndBless",
+        "nusach": "edot"
+      },
+      {
+        "body": "halelEndBlessAshkenaz",
+        "nusach": "ashkenaz"
+      },
+      {
+        "body": "halelEndBlessSefarad",
+        "nusach": "sfarad"
+      },
+      {
+        "body": "halelEndBlessChabad"
+      },
+      {
+        "title": "atsmaut_title",
+        "body": "afterKadishAtsmaut"
+      },
+      {
+        "title": "shirLama_title",
+        "body": "shirLama",
+        "nusach": "edot"
+      },
+      {
+        "title": "shirLama_title",
+        "body": "shirLama",
+        "nusach": "sfarad"
+      },
+      {
+        "title": "barechuTitle",
+        "body": "barechu",
+        "nusach": "edot"
+      },
+      {
+        "title": "barechuTitle",
+        "body": "barechu",
+        "nusach": "sfarad"
+      },
+      {
+        "body": "chazanSays",
+        "nusach": "edot"
+      },
+      {
+        "body": "chazanSays",
+        "nusach": "sfarad"
+      },
+      {
+        "body": "kahalSays",
+        "nusach": "edot"
+      },
+      {
+        "body": "kahalSays",
+        "nusach": "sfarad"
+      },
+      {
+        "title": "aleinuTitle",
+        "body": "aleinu",
+        "nusach": "edot"
+      },
+      {
+        "body": "aleinuSefarad",
+        "nusach": "sfarad"
+      },
+      {
+        "body": "aleinuAshkenaz",
+        "nusach": "ashkenaz"
+      },
+      {
+        "body": "aleinuChabad",
+        "nusach": "chabad"
+      },
+      {
+        "title": "afterAleinuChabadTitle",
+        "body": "afterAleinuChabad",
+        "nusach": "chabad"
+      },
+      {
+        "title": "afterAleinuChabadTitle",
+        "body": "afterAleinuChabad",
+        "nusach": "ashkenaz"
+      },
+      {
+        "title": "barechuTitle",
+        "body": "barechu",
+        "nusach": "sfarad"
+      },
+      {
+        "body": "chazanSays",
+        "nusach": "sfarad"
+      },
+      {
+        "body": "kahalSays",
+        "nusach": "sfarad"
+      },
+      {
+        "title": "ledavidTitle",
+        "body": "ledavid"
+      },
+      {
+        "title": "avelTitle",
+        "body": "avelNoTahanun"
+      },
+      {
+        "body": "avel"
+      }
+    ]
+  },
+  "asherYatzar": {
+    "generatorClass": "AsherYatzarGenerator",
+    "rows": []
+  },
+  "halel": {
+    "generatorClass": "HalelGenerator",
+    "rows": [
+      {
+        "title": "lulavBless",
+        "body": "lulav"
+      },
+      {
+        "title": "halelStartBlessTitle",
+        "body": "halelStartBless",
+        "nusach": "edot"
+      },
+      {
+        "body": "halelStartBlessSefarad"
+      },
+      {
+        "title": "halelS1Title",
+        "body": "halelS1"
+      },
+      {
+        "title": "halelS2Title",
+        "body": "halelS2"
+      },
+      {
+        "title": "halelS4Title",
+        "body": "halelS5"
+      },
+      {
+        "title": "halelS5Title",
+        "body": "halelS6"
+      },
+      {
+        "body": "halelS7"
+      },
+      {
+        "title": "halelS6Title",
+        "body": "halelS9"
+      },
+      {
+        "title": "halelEndBlessingTitle",
+        "body": "halelEndBless",
+        "nusach": "edot"
+      },
+      {
+        "body": "halelEndBlessAshkenaz",
+        "nusach": "ashkenaz"
+      },
+      {
+        "body": "halelEndBlessSefarad",
+        "nusach": "sfarad"
+      },
+      {
+        "body": "halelEndBlessChabad"
+      },
+      {
+        "title": "shirShelTitle",
+        "body": "shirShel1Sefarad"
+      },
+      {
+        "body": "sheboHayu"
+      },
+      {
+        "body": "shirShel1"
+      },
+      {
+        "body": "sheboHayu"
+      },
+      {
+        "body": "shirShel2"
+      },
+      {
+        "body": "sheboHayu"
+      },
+      {
+        "body": "shirShel3"
+      },
+      {
+        "body": "sheboHayu"
+      },
+      {
+        "body": "shirShel4"
+      },
+      {
+        "body": "sheboHayu"
+      },
+      {
+        "body": "shirShel5"
+      },
+      {
+        "body": "sheboHayu"
+      },
+      {
+        "body": "shirShel6"
+      },
+      {
+        "body": "sheboHayu"
+      },
+      {
+        "title": "hoshienuTitle",
+        "body": "hoshienuSefarad"
+      },
+      {
+        "title": "barchiTitle",
+        "body": "barechiNafshi"
+      },
+      {
+        "title": "ledavidTitle",
+        "body": "ledavid"
+      },
+      {
+        "title": "avelTitle",
+        "body": "avel"
+      },
+      {
+        "body": "avelNoTahanun"
+      },
+      {
+        "title": "odHayomTitle",
+        "body": "odHayom"
+      },
+      {
+        "title": "shlomHamdinaTitle",
+        "body": "shlomHamdina"
+      },
+      {
+        "title": "zahalTitle",
+        "body": "zahal"
+      }
+    ]
+  },
+  "kinot": {
+    "generatorClass": "KinotGenerator",
+    "rows": [
+      {
+        "title": "eicha_title",
+        "body": "eicha"
+      }
+    ]
+  },
+  "mazon": {
+    "generatorClass": "MazonGenerator",
+    "rows": [
+      {
+        "title": "psukimBeforMazon",
+        "body": "avarecha",
+        "nusach": "edot"
+      },
+      {
+        "body": "avarechaSefaradNoTahanun",
+        "nusach": "sfarad"
+      },
+      {
+        "body": "averchaSefarad",
+        "nusach": "sfarad"
+      },
+      {
+        "body": "avarechaSefaradNoTahanun",
+        "nusach": "ashkenaz"
+      },
+      {
+        "body": "averchaSefarad",
+        "nusach": "ashkenaz"
+      },
+      {
+        "body": "avarechaChabadNoTahanun",
+        "nusach": "chabad"
+      },
+      {
+        "body": "avarechaChabad",
+        "nusach": "chabad"
+      },
+      {
+        "title": "zimun_title",
+        "body": "zimunAvel",
+        "nusach": "edot"
+      },
+      {
+        "body": "zimunHatan",
+        "nusach": "edot"
+      },
+      {
+        "body": "zimun",
+        "nusach": "edot"
+      },
+      {
+        "body": "zimunHatanSfarad",
+        "nusach": "sfarad"
+      },
+      {
+        "body": "zimunHatanSfarad",
+        "nusach": "ashkenaz"
+      },
+      {
+        "body": "zimunBrit",
+        "nusach": "sfarad"
+      },
+      {
+        "body": "zimunBrit",
+        "nusach": "ashkenaz"
+      },
+      {
+        "body": "zimunSefarad",
+        "nusach": "sfarad"
+      },
+      {
+        "body": "zimunSefarad",
+        "nusach": "ashkenaz"
+      },
+      {
+        "body": "zimunChatanChabad",
+        "nusach": "chabad"
+      },
+      {
+        "body": "zimunChabad",
+        "nusach": "chabad"
+      },
+      {
+        "title": "bHazan_title",
+        "body": "bHazan",
+        "nusach": "edot"
+      },
+      {
+        "body": "bHazanSefarad",
+        "nusach": "sfarad"
+      },
+      {
+        "body": "bHazanAshkenaz",
+        "nusach": "ashkenaz"
+      },
+      {
+        "body": "bHazanChabad",
+        "nusach": "chabad"
+      },
+      {
+        "title": "bNode_title",
+        "body": "bNodeHanuka",
+        "nusach": "edot"
+      },
+      {
+        "body": "bNodePurim",
+        "nusach": "edot"
+      },
+      {
+        "body": "klum",
+        "nusach": "edot"
+      },
+      {
+        "body": "bNodeHanukaSefarad",
+        "nusach": "sfarad"
+      },
+      {
+        "body": "bNodePurimSefarad",
+        "nusach": "sfarad"
+      },
+      {
+        "body": "klum",
+        "nusach": "sfarad"
+      },
+      {
+        "body": "bNodeHanukaAshkenaz",
+        "nusach": "ashkenaz"
+      },
+      {
+        "body": "bNodePurimAshkenaz",
+        "nusach": "ashkenaz"
+      },
+      {
+        "body": "klum",
+        "nusach": "ashkenaz"
+      },
+      {
+        "body": "bNodeHanukaChabad",
+        "nusach": "chabad"
+      },
+      {
+        "body": "bNodePurimChabad",
+        "nusach": "chabad"
+      },
+      {
+        "body": "klum",
+        "nusach": "chabad"
+      },
+      {
+        "title": "bRahem_title",
+        "body": "mazonAvel"
+      },
+      {
+        "title": "bRahem_title",
+        "body": "bRahemRoshHodesh",
+        "nusach": "edot"
+      },
+      {
+        "body": "bRahmenPassover",
+        "nusach": "edot"
+      },
+      {
+        "body": "bRahemSukot",
+        "nusach": "edot"
+      },
+      {
+        "body": "klum",
+        "nusach": "edot"
+      },
+      {
+        "body": "bRahemRoshHodeshSefarad",
+        "nusach": "sfarad"
+      },
+      {
+        "body": "bRahmenPassoverSefarad",
+        "nusach": "sfarad"
+      },
+      {
+        "body": "bRahemSukotSefarad",
+        "nusach": "sfarad"
+      },
+      {
+        "body": "klum",
+        "nusach": "sfarad"
+      },
+      {
+        "body": "bRahemRoshHodeshAshkenaz",
+        "nusach": "ashkenaz"
+      },
+      {
+        "body": "bRahmenPassoverAshkenaz",
+        "nusach": "ashkenaz"
+      },
+      {
+        "body": "bRahemSukotAshkenaz",
+        "nusach": "ashkenaz"
+      },
+      {
+        "body": "klum",
+        "nusach": "ashkenaz"
+      },
+      {
+        "body": "bRahemRoshHodeshChabad",
+        "nusach": "chabad"
+      },
+      {
+        "body": "bRahmenPassoverChabad",
+        "nusach": "chabad"
+      },
+      {
+        "body": "bRahemSukotChabad",
+        "nusach": "chabad"
+      },
+      {
+        "body": "klum",
+        "nusach": "chabad"
+      },
+      {
+        "title": "bHatov_title",
+        "body": "bHatov",
+        "nusach": "edot"
+      },
+      {
+        "body": "bHatovSefarad",
+        "nusach": "sfarad"
+      },
+      {
+        "body": "bHatovAshkenaz",
+        "nusach": "ashkenaz"
+      },
+      {
+        "body": "bHatovChabad",
+        "nusach": "chabad"
+      },
+      {
+        "title": "rahaman_title",
+        "body": "yitaRoshHodesh",
+        "nusach": "edot"
+      },
+      {
+        "body": "yitaPassover",
+        "nusach": "edot"
+      },
+      {
+        "body": "yitaSukot",
+        "nusach": "edot"
+      },
+      {
+        "body": "klum",
+        "nusach": "edot"
+      },
+      {
+        "body": "sofRoshHodeshSefarad",
+        "nusach": "sfarad"
+      },
+      {
+        "body": "sofSukotSefarad",
+        "nusach": "sfarad"
+      },
+      {
+        "body": "sofBritSefarad",
+        "nusach": "sfarad"
+      },
+      {
+        "body": "klum",
+        "nusach": "sfarad"
+      },
+      {
+        "body": "sofRoshHodeshAshkenaz",
+        "nusach": "ashkenaz"
+      },
+      {
+        "body": "sofSukotAshkenaz",
+        "nusach": "ashkenaz"
+      },
+      {
+        "body": "sofBritSefarad",
+        "nusach": "ashkenaz"
+      },
+      {
+        "body": "klum",
+        "nusach": "ashkenaz"
+      },
+      {
+        "body": "sofRoshHodeshChabad",
+        "nusach": "chabad"
+      },
+      {
+        "body": "sofSukotChabad",
+        "nusach": "chabad"
+      },
+      {
+        "body": "klum",
+        "nusach": "chabad"
+      },
+      {
+        "title": "klum",
+        "body": "yitaHanuka"
+      },
+      {
+        "title": "geust_title",
+        "body": "guest",
+        "nusach": "edot"
+      },
+      {
+        "title": "groom_title",
+        "body": "groom",
+        "nusach": "edot"
+      },
+      {
+        "title": "mila_title",
+        "body": "mila",
+        "nusach": "edot"
+      },
+      {
+        "title": "mila_title",
+        "body": "milaChabad"
+      },
+      {
+        "body": "migdol"
+      },
+      {
+        "body": "magdil"
+      }
+    ]
+  },
+  "mincha": {
+    "generatorClass": "MinchaGenerator",
+    "rows": [
+      {
+        "title": "tfilinTitle",
+        "body": "tefilin",
+        "nusach": "edot"
+      },
+      {
+        "body": "tefilinChabad",
+        "nusach": "chabad"
+      },
+      {
+        "body": "tfilinYadInstruction"
+      },
+      {
+        "body": "tfilinRoshInstruction"
+      },
+      {
+        "body": "afterTfilinRoshInstruction"
+      },
+      {
+        "title": "afterTfilinTitle",
+        "body": "afterTfilin"
+      },
+      {
+        "body": "tfilinRosh"
+      },
+      {
+        "body": "tfilinYad"
+      },
+      {
+        "title": "patachTitle",
+        "body": "patah",
+        "nusach": "edot"
+      },
+      {
+        "title": "leshemTitle",
+        "body": "leshemMincha",
+        "nusach": "edot"
+      },
+      {
+        "title": "hoduTitle",
+        "body": "passoverSpecialMizmor"
+      },
+      {
+        "title": "patachTitle",
+        "body": "patah"
+      },
+      {
+        "title": "lamnatseachMinchaTitle",
+        "body": "lamnetsahMincha",
+        "nusach": "edot"
+      },
+      {
+        "title": "kiorTitle",
+        "body": "kior"
+      },
+      {
+        "title": "tamidTitle",
+        "body": "tamidChabad",
+        "nusach": "chabad"
+      },
+      {
+        "body": "tamid"
+      },
+      {
+        "title": "ktoretTitle",
+        "body": "ktoret"
+      },
+      {
+        "title": "ashreiTitle",
+        "body": "ashreiChabad",
+        "nusach": "chabad"
+      },
+      {
+        "body": "ashrei"
+      },
+      {
+        "title": "ptihaTitle",
+        "body": "hotsaaTorahNoTahanun",
+        "nusach": "edot"
+      },
+      {
+        "body": "hotsaaTorah",
+        "nusach": "edot"
+      },
+      {
+        "body": "hotsaaTorahChabad",
+        "nusach": "chabad"
+      },
+      {
+        "body": "hotsaaTorahSefarad"
+      },
+      {
+        "title": "hotsaTitle",
+        "body": "gadelu",
+        "nusach": "edot"
+      },
+      {
+        "title": "hagbaTitle",
+        "body": "hgbaha",
+        "nusach": "edot"
+      },
+      {
+        "title": "ptihaTitle",
+        "body": "ptihaAseretSefarad"
+      },
+      {
+        "body": "ptihaSefarad"
+      },
+      {
+        "title": "brichTitle",
+        "body": "brihChabad",
+        "nusach": "chabad"
+      },
+      {
+        "body": "brihSefarad"
+      },
+      {
+        "title": "hotsaTitle",
+        "body": "gadeluChabad",
+        "nusach": "chabad"
+      },
+      {
+        "body": "gadeluSefarad"
+      },
+      {
+        "title": "birkotToraTitle",
+        "body": "birlotOlehTorah",
+        "nusach": "edot"
+      },
+      {
+        "body": "birkotOlehTorahChabad",
+        "nusach": "chabad"
+      },
+      {
+        "body": "birlotOlehTorahSefarad"
+      },
+      {
+        "title": "torah",
+        "body": "vaychal"
+      },
+      {
+        "body": "aliaKohen"
+      },
+      {
+        "body": "aliaLevi"
+      },
+      {
+        "body": "aliaIsrael"
+      },
+      {
+        "title": "hagbaTitle",
+        "body": "hgbahaChabad",
+        "nusach": "chabad"
+      },
+      {
+        "body": "hgbahaSefarad"
+      },
+      {
+        "title": "haftaraBlessingsTitle",
+        "body": "birkotHaftaraBefore"
+      },
+      {
+        "title": "haftaraTitle",
+        "body": "haftaraTishBov",
+        "nusach": "edot"
+      },
+      {
+        "body": "haftaraTishBovAshkenaz"
+      },
+      {
+        "title": "haftaraBlessingsTitle",
+        "body": "birkotHaftaraAfter"
+      },
+      {
+        "title": "torahHahzaraTitle",
+        "body": "yehalelu",
+        "nusach": "edot"
+      },
+      {
+        "body": "yehaleluSefarad",
+        "nusach": "sfarad"
+      },
+      {
+        "body": "yehaleluSefarad",
+        "nusach": "ashkenaz"
+      },
+      {
+        "body": "yehaleluChabad"
+      },
+      {
+        "title": "klum",
+        "body": "tikon",
+        "nusach": "edot"
+      },
+      {
+        "title": "avinuTitle",
+        "body": "avinu",
+        "nusach": "edot"
+      },
+      {
+        "body": "avinuTaanit",
+        "nusach": "edot"
+      },
+      {
+        "body": "avinuSefarad",
+        "nusach": "sfarad"
+      },
+      {
+        "body": "avinuTaanitSefarad",
+        "nusach": "sfarad"
+      },
+      {
+        "body": "avinuAshkenaz",
+        "nusach": "ashkenaz"
+      },
+      {
+        "body": "avinuTaanitAshkenaz",
+        "nusach": "ashkenaz"
+      },
+      {
+        "title": "yagTitle",
+        "body": "yagAshkenaz",
+        "nusach": "ashkenaz"
+      },
+      {
+        "title": "tahanunTitle",
+        "body": "tahanun",
+        "nusach": "edot"
+      },
+      {
+        "body": "tahanunMinchaAshkenaz",
+        "nusach": "ashkenaz"
+      },
+      {
+        "title": "yeshemTitle",
+        "body": "yeshem",
+        "nusach": "edot"
+      },
+      {
+        "title": "nechamaTitle",
+        "body": "nechamMincha",
+        "nusach": "edot"
+      },
+      {
+        "title": "shirMinchaTitle",
+        "body": "hashemMalach",
+        "nusach": "edot"
+      },
+      {
+        "body": "shirTishaBovMincha",
+        "nusach": "edot"
+      },
+      {
+        "body": "shirMincha",
+        "nusach": "edot"
+      },
+      {
+        "title": "menora",
+        "body": "klum",
+        "nusach": "edot"
+      },
+      {
+        "title": "menora",
+        "body": "klum",
+        "nusach": "edot"
+      },
+      {
+        "title": "shirMinchaTitle",
+        "body": "shirMincha",
+        "nusach": "sfarad"
+      },
+      {
+        "title": "menora",
+        "body": "klum",
+        "nusach": "sfarad"
+      },
+      {
+        "title": "ledavidTitle",
+        "body": "ledavid"
+      },
+      {
+        "title": "aleinuTitle",
+        "body": "aleinu",
+        "nusach": "edot"
+      },
+      {
+        "body": "aleinuSefarad",
+        "nusach": "sfarad"
+      },
+      {
+        "body": "aleinuAshkenaz",
+        "nusach": "ashkenaz"
+      },
+      {
+        "body": "aleinuChabad",
+        "nusach": "chabad"
+      },
+      {
+        "title": "afterAleinuChabadTitle",
+        "body": "afterAleinuChabad",
+        "nusach": "chabad"
+      },
+      {
+        "title": "afterAleinuChabadTitle",
+        "body": "afterAleinuChabad",
+        "nusach": "ashkenaz"
+      },
+      {
+        "title": "ledavidTitle",
+        "body": "ledavid"
+      },
+      {
+        "title": "avelTitle",
+        "body": "avelNoTahanun"
+      },
+      {
+        "body": "avel"
+      }
+    ]
+  },
+  "nedarim": {
+    "generatorClass": "NedarimGenerator",
+    "rows": [
+      {
+        "body": "nedarimEdot",
+        "nusach": "edot"
+      },
+      {
+        "body": "nedarimSfarad"
+      },
+      {
+        "body": "klalotSfarad"
+      }
+    ]
+  },
+  "omer": {
+    "generatorClass": "OmerGenerator",
+    "rows": [
+      {
+        "title": "omer_title",
+        "body": "sefira",
+        "nusach": "edot"
+      },
+      {
+        "body": "sefiraSefarad",
+        "nusach": "sfarad"
+      },
+      {
+        "body": "sefiraChabad",
+        "nusach": "chabad"
+      },
+      {
+        "body": "sefiraAshkenaz"
+      },
+      {
+        "title": "menora",
+        "body": "klum",
+        "nusach": "edot"
+      }
+    ]
+  },
+  "slihotAshkenaz": {
+    "generatorClass": "SlihotAshkenazGenerator",
+    "rows": []
+  },
+  "torahReading": {
+    "generatorClass": "TorahReadingGenerator",
+    "rows": [
+      {
+        "title": "ptihaTitle",
+        "body": "alHechali",
+        "nusach": "edot"
+      },
+      {
+        "body": "hotsaaTorahNoTahanun",
+        "nusach": "edot"
+      },
+      {
+        "body": "hotsaaTorah",
+        "nusach": "edot"
+      },
+      {
+        "body": "hotsaaTorahSefarad",
+        "nusach": "sfarad"
+      },
+      {
+        "body": "hotsaaTorahAshkenaz",
+        "nusach": "ashkenaz"
+      },
+      {
+        "body": "hotsaaTorahChabad"
+      },
+      {
+        "title": "ptihaTitle",
+        "body": "ptihaAseretSefarad",
+        "nusach": "sfarad"
+      },
+      {
+        "title": "ptihaTitle",
+        "body": "ptihaAseretSefarad",
+        "nusach": "ashkenaz"
+      },
+      {
+        "body": "ptihaSefarad",
+        "nusach": "sfarad"
+      },
+      {
+        "body": "ptihaSefarad",
+        "nusach": "ashkenaz"
+      },
+      {
+        "body": "ptihaHoshanaRabaSefarad",
+        "nusach": "sfarad"
+      },
+      {
+        "body": "ptihaHoshanaRabaSefarad",
+        "nusach": "ashkenaz"
+      },
+      {
+        "title": "brichTitle",
+        "body": "brih",
+        "nusach": "edot"
+      },
+      {
+        "body": "brihChabad",
+        "nusach": "chabad"
+      },
+      {
+        "body": "brihSefarad"
+      },
+      {
+        "title": "hotsaTitle",
+        "body": "gadeluChabad",
+        "nusach": "chabad"
+      },
+      {
+        "body": "gadeluSefarad"
+      },
+      {
+        "title": "birkotToraTitle",
+        "body": "birlotOlehTorah",
+        "nusach": "edot"
+      },
+      {
+        "body": "birkotOlehTorahChabad",
+        "nusach": "chabad"
+      },
+      {
+        "body": "birlotOlehTorahSefarad"
+      },
+      {
+        "title": "hagbaTitle",
+        "body": "hgbahaChabad",
+        "nusach": "chabad"
+      },
+      {
+        "body": "hgbahaSefarad"
+      },
+      {
+        "title": "odHayomTitle",
+        "body": "odHayom"
+      },
+      {
+        "title": "shlomHamdinaTitle",
+        "body": "shlomHamdina"
+      },
+      {
+        "title": "zahalTitle",
+        "body": "zahal"
+      },
+      {
+        "title": "haftaraBlessingsTitle",
+        "body": "birkotHaftaraBefore"
+      },
+      {
+        "title": "haftaraTitle",
+        "body": "hatarahToshBovBoker"
+      },
+      {
+        "body": "haftaraTishBov",
+        "nusach": "edot"
+      },
+      {
+        "body": "haftaraTishBovAshkenaz"
+      },
+      {
+        "title": "haftaraBlessingsTitle",
+        "body": "birkotHaftaraAfter"
+      },
+      {
+        "title": "yehiRazonTitle",
+        "body": "yehiRazonAshkenaz",
+        "nusach": "ashkenaz"
+      },
+      {
+        "body": "yehiRazonSefarad"
+      },
+      {
+        "title": "torahHahzaraTitle",
+        "body": "yehaleluSefarad",
+        "nusach": "ashkenaz"
+      },
+      {
+        "title": "blessBeforeEster_title",
+        "body": "blessBeforeEsterMorning",
+        "nusach": "edot"
+      },
+      {
+        "body": "blessBeforeEster"
+      },
+      {
+        "title": "ester_title",
+        "body": "ester1"
+      },
+      {
+        "title": "blessAfterEster_title",
+        "body": "blessAfterEster",
+        "nusach": "edot"
+      },
+      {
+        "body": "blessAfterEsterSefarad"
+      },
+      {
+        "title": "klum",
+        "body": "arur",
+        "nusach": "edot"
+      },
+      {
+        "body": "shoshana"
+      }
+    ]
+  },
+  "ushpizin": {
+    "generatorClass": "UshpizinGenerator",
+    "rows": []
+  },
+  "alMita": {
+    "generatorClass": "AlMitaGenerator",
+    "rows": [
+      {
+        "title": "ihudTitle",
+        "body": "ihudAlHamita",
+        "nusach": "edot"
+      },
+      {
+        "body": "ribonAlMita",
+        "nusach": "edot"
+      },
+      {
+        "title": "hamapilTitle",
+        "body": "hamapil",
+        "nusach": "edot"
+      },
+      {
+        "body": "hamapilAfterHatzot",
+        "nusach": "edot"
+      },
+      {
+        "body": "hamapil",
+        "nusach": "edot"
+      },
+      {
+        "body": "hamapilAfterHatzot",
+        "nusach": "edot"
+      },
+      {
+        "title": "hashkivenuTitle",
+        "body": "hashkivenu",
+        "nusach": "edot"
+      },
+      {
+        "title": "shmaTitle",
+        "body": "shmaAlMita",
+        "nusach": "edot"
+      },
+      {
+        "body": "whisper",
+        "nusach": "edot"
+      },
+      {
+        "body": "repeat",
+        "nusach": "edot"
+      },
+      {
+        "title": "yalezuTitle",
+        "body": "yalezu",
+        "nusach": "edot"
+      },
+      {
+        "body": "threeTimes",
+        "nusach": "edot"
+      },
+      {
+        "title": "viduyTitle",
+        "body": "viduyAlMita",
+        "nusach": "edot"
+      },
+      {
+        "title": "anaTitle",
+        "body": "ana",
+        "nusach": "edot"
+      },
+      {
+        "title": "al_mita",
+        "body": "beforeAlHamitaChabad",
+        "nusach": "chabad"
+      },
+      {
+        "title": "shmaTitle",
+        "body": "shmaAlMita",
+        "nusach": "chabad"
+      },
+      {
+        "body": "whisper",
+        "nusach": "chabad"
+      },
+      {
+        "body": "repeat",
+        "nusach": "chabad"
+      },
+      {
+        "title": "yalezuTitle",
+        "body": "afterShmaChabad",
+        "nusach": "chabad"
+      },
+      {
+        "title": "viduyTitle",
+        "body": "ViduyAlHamitaChabad",
+        "nusach": "chabad"
+      },
+      {
+        "title": "lamnatzeachAlMitaTitle",
+        "body": "lamanatzezchAlHamitaChabad",
+        "nusach": "chabad"
+      },
+      {
+        "title": "yalezuTitle",
+        "body": "alHamitaSofChabad",
+        "nusach": "chabad"
+      },
+      {
+        "title": "al_mita",
+        "body": "shmaAlHamitaAshkenaz",
+        "nusach": "ashkenaz"
+      },
+      {
+        "body": "whisper",
+        "nusach": "ashkenaz"
+      },
+      {
+        "title": "al_mita",
+        "body": "shmaAlHamitaSefarad",
+        "nusach": "sfarad"
+      },
+      {
+        "body": "whisper",
+        "nusach": "sfarad"
+      },
+      {
+        "body": "sgulaAlMitaSfarad",
+        "nusach": "sfarad"
+      }
+    ]
+  },
+  "blessings": {
+    "generatorClass": "BlessingsGenerator",
+    "rows": [
+      {
+        "title": "food_blessing_title",
+        "body": "food_blessings"
+      },
+      {
+        "title": "olamimBlessTitle",
+        "body": "olamimBless"
+      },
+      {
+        "body": "olamimBlessChabad"
+      },
+      {
+        "body": "olamimBlessSefarad"
+      },
+      {
+        "body": "olamimBlessDesc"
+      },
+      {
+        "title": "shehehiyanuBlessTitle",
+        "body": "shehehiyanuBless"
+      },
+      {
+        "title": "smell_blessing_title",
+        "body": "smell_blessings"
+      },
+      {
+        "title": "mitsvaBlessingTitle",
+        "body": "mitsvaBlessings"
+      },
+      {
+        "title": "eventsBlessingTitle",
+        "body": "eventsBlessings"
+      }
+    ]
+  },
+  "haderech": {
+    "generatorClass": "HaderechGenerator",
+    "rows": [
+      {
+        "title": "haderech",
+        "body": "threeTimes"
+      },
+      {
+        "body": "tfila_haderech_return"
+      }
+    ]
+  },
+  "hala": {
+    "generatorClass": "HalaGenerator",
+    "rows": [
+      {
+        "body": "halaIntro"
+      },
+      {
+        "body": "halaIntroText"
+      }
+    ]
+  },
+  "hanuka": {
+    "generatorClass": "HanukaGenerator",
+    "rows": [
+      {
+        "title": "hanuka",
+        "body": "shehehiyanuBless"
+      },
+      {
+        "body": "klum"
+      },
+      {
+        "title": "maoz_zur_title",
+        "body": "maoz_zur",
+        "nusach": "edot"
+      },
+      {
+        "body": "maoz_zur_sefarad"
+      }
+    ]
+  },
+  "hatsot": {
+    "generatorClass": "HatsotGenerator",
+    "rows": [
+      {
+        "title": "tikunRachelTitle",
+        "body": "tikunRachel"
+      },
+      {
+        "body": "tikunRachelChabad"
+      },
+      {
+        "body": "tikunRachelSefarad"
+      },
+      {
+        "title": "tikunLeaTitle",
+        "body": "tikunLea"
+      },
+      {
+        "body": "klum"
+      },
+      {
+        "body": "klum"
+      },
+      {
+        "body": "tikunLea"
+      },
+      {
+        "body": "yaancha"
+      },
+      {
+        "body": "adAna"
+      },
+      {
+        "body": "tikunLeaChabad"
+      },
+      {
+        "body": "klum"
+      },
+      {
+        "body": "tikunLeaChabad"
+      },
+      {
+        "body": "tikunLeaSofChabad"
+      },
+      {
+        "body": "tikunLeaSefarad"
+      }
+    ]
+  },
+  "havdala": {
+    "generatorClass": "HavdalaGenerator",
+    "rows": [
+      {
+        "title": "veyitenTitle",
+        "body": "veyitenEdot",
+        "nusach": "edot"
+      },
+      {
+        "body": "veyiten"
+      }
+    ]
+  },
+  "ilanot": {
+    "generatorClass": "IlanotGenerator",
+    "rows": [
+      {
+        "title": "ilanot_title",
+        "body": "ilanot",
+        "nusach": "edot"
+      },
+      {
+        "body": "ilanotSefarad"
+      }
+    ]
+  },
+  "lag": {
+    "generatorClass": "LagGenerator",
+    "rows": [
+      {
+        "title": "barYohaiTitle",
+        "body": "barYohai"
+      },
+      {
+        "title": "koLechaiTitle",
+        "body": "koLechai"
+      },
+      {
+        "title": "amarRabiAkivaTitle",
+        "body": "amarRabiAkiva"
+      },
+      {
+        "title": "ashrenuBarYohaiTitle",
+        "body": "ashrenuBarYohai"
+      },
+      {
+        "title": "maLachemTitle",
+        "body": "maLachem"
+      }
+    ]
+  },
+  "levana": {
+    "generatorClass": "LevanaGenerator",
+    "rows": [
+      {
+        "body": "levana"
+      },
+      {
+        "body": "levanaSefarad"
+      },
+      {
+        "body": "levanaAshkenaz"
+      },
+      {
+        "body": "levanaChabad"
+      },
+      {
+        "title": "aleinuTitle",
+        "body": "aleinuChabad",
+        "nusach": "chabad"
+      },
+      {
+        "body": "aleinuAshkenaz",
+        "nusach": "ashkenaz"
+      },
+      {
+        "body": "aleinuSefarad"
+      },
+      {
+        "body": "levanaEnd",
+        "nusach": "edot"
+      }
+    ]
+  },
+  "maaser": {
+    "generatorClass": "MaaserGenerator",
+    "rows": [
+      {
+        "title": "maaser",
+        "body": "maaserText"
+      }
+    ]
+  },
+  "mila": {
+    "generatorClass": "MilaGenerator",
+    "rows": [
+      {
+        "title": "milaPyutTitle",
+        "body": "pyutMila",
+        "nusach": "edot"
+      },
+      {
+        "title": "britMilaTitle",
+        "body": "britMila",
+        "nusach": "edot"
+      },
+      {
+        "body": "milaAshkenaz",
+        "nusach": "ashkenaz"
+      },
+      {
+        "body": "milaSefarad"
+      },
+      {
+        "title": "afterMilaTitle",
+        "body": "afterMilaSefarad",
+        "nusach": "sfarad"
+      }
+    ]
+  },
+  "shevaBrachot": {
+    "generatorClass": "ShevaBrachotGenerator",
+    "rows": [
+      {
+        "title": "sheva_brachot",
+        "body": "shevaBerachot"
+      },
+      {
+        "body": "shevaBrachotSfarad"
+      }
+    ]
+  },
+  "slihot": {
+    "generatorClass": "SlihotGenerator",
+    "rows": []
+  },
+  "threefold": {
+    "generatorClass": "ThreefoldGenerator",
+    "rows": []
+  },
+  "mussaf": {
+    "generatorClass": "MussafGenerator",
+    "rows": [
+      {
+        "title": "ashreiTitle",
+        "body": "ashreiChabad",
+        "nusach": "chabad"
+      },
+      {
+        "body": "ashrei"
+      },
+      {
+        "title": "uvaTitle",
+        "body": "whisper"
+      },
+      {
+        "title": "betYaakovTitle",
+        "body": "betYaakov",
+        "nusach": "edot"
+      },
+      {
+        "title": "shirShelTitle",
+        "body": "klum",
+        "nusach": "edot"
+      },
+      {
+        "title": "hoshienuTitle",
+        "body": "hoshienu",
+        "nusach": "edot"
+      },
+      {
+        "title": "torahHahzaraTitle",
+        "body": "yehalelu",
+        "nusach": "edot"
+      },
+      {
+        "body": "yehaleluSefarad",
+        "nusach": "sfarad"
+      },
+      {
+        "body": "yehaleluChabad",
+        "nusach": "chabad"
+      },
+      {
+        "title": "mussaf",
+        "body": "sfataySefarad",
+        "nusach": "sfarad"
+      },
+      {
+        "title": "mussaf",
+        "body": "sfataySefarad",
+        "nusach": "ashkenaz"
+      },
+      {
+        "body": "sfatay"
+      },
+      {
+        "title": "avotTitle",
+        "body": "Avot"
+      },
+      {
+        "body": "AvotChabad"
+      },
+      {
+        "body": "AvotSefarad"
+      },
+      {
+        "body": "klum"
+      },
+      {
+        "title": "b2Title",
+        "body": "b2WinterStarts"
+      },
+      {
+        "body": "klum"
+      },
+      {
+        "body": "b2Winter"
+      },
+      {
+        "body": "klum"
+      },
+      {
+        "body": "b2SummerStarts"
+      },
+      {
+        "body": "klum"
+      },
+      {
+        "body": "klum"
+      },
+      {
+        "body": "klum"
+      },
+      {
+        "body": "b2Summer"
+      },
+      {
+        "body": "klum"
+      },
+      {
+        "body": "kdushaMusafRoshChodes",
+        "nusach": "edot"
+      },
+      {
+        "body": "kdushaMusaf",
+        "nusach": "edot"
+      },
+      {
+        "body": "kdushaMusafChabad",
+        "nusach": "chabad"
+      },
+      {
+        "body": "kdushaHagSfarad",
+        "nusach": "sfarad"
+      },
+      {
+        "body": "kdushaHagAshkenaz"
+      },
+      {
+        "body": "kdushaRoshHodeshSefarad",
+        "nusach": "sfarad"
+      },
+      {
+        "body": "kdushaMoedAshkenaz"
+      },
+      {
+        "body": "kdushaMoedSefarad",
+        "nusach": "sfarad"
+      },
+      {
+        "body": "kdushaMoedAshkenaz"
+      },
+      {
+        "title": "b3Title",
+        "body": "f7902b3"
+      },
+      {
+        "body": "b3Ashkenaz"
+      },
+      {
+        "body": "b3Sefarad"
+      },
+      {
+        "body": "b3Sof"
+      },
+      {
+        "title": "mussafBlessTitle",
+        "body": "mussafMoed",
+        "nusach": "edot"
+      },
+      {
+        "body": "mazot",
+        "nusach": "edot"
+      },
+      {
+        "body": "mazotShort",
+        "nusach": "edot"
+      },
+      {
+        "body": "musafMoedSefarad",
+        "nusach": "sfarad"
+      },
+      {
+        "body": "mazotSefarad",
+        "nusach": "sfarad"
+      },
+      {
+        "body": "mazotShort",
+        "nusach": "sfarad"
+      },
+      {
+        "body": "passoverPasuk",
+        "nusach": "sfarad"
+      },
+      {
+        "body": "mussafMoedAshkenaz",
+        "nusach": "ashkenaz"
+      },
+      {
+        "body": "mazotSefarad",
+        "nusach": "ashkenaz"
+      },
+      {
+        "body": "mazotShort",
+        "nusach": "ashkenaz"
+      },
+      {
+        "body": "passoverPasuk",
+        "nusach": "ashkenaz"
+      },
+      {
+        "body": "mussafMoedChabad"
+      },
+      {
+        "body": "mazot"
+      },
+      {
+        "body": "mazotShort"
+      },
+      {
+        "body": "passoverPasuk"
+      },
+      {
+        "body": "mussafMoed",
+        "nusach": "edot"
+      },
+      {
+        "body": "sukot",
+        "nusach": "edot"
+      },
+      {
+        "body": "sukotShort",
+        "nusach": "edot"
+      },
+      {
+        "body": "sukotSefarad"
+      },
+      {
+        "body": "sukotShort"
+      },
+      {
+        "body": "uminchatam"
+      },
+      {
+        "title": "b17Title",
+        "body": "b17"
+      },
+      {
+        "body": "b17Ashkenaz"
+      },
+      {
+        "body": "b17Chabad"
+      },
+      {
+        "body": "b17Sefarad"
+      },
+      {
+        "body": "klum"
+      },
+      {
+        "title": "b18Title",
+        "body": "b18"
+      },
+      {
+        "body": "b18Ashkenaz",
+        "nusach": "ashkenaz"
+      },
+      {
+        "body": "b18Chabad",
+        "nusach": "chabad"
+      },
+      {
+        "body": "b18Sefarad"
+      },
+      {
+        "title": "modimDrabnanTitle",
+        "body": "modimDer",
+        "nusach": "edot"
+      },
+      {
+        "body": "modimDerChabad",
+        "nusach": "chabad"
+      },
+      {
+        "body": "modimDerSefarad"
+      },
+      {
+        "title": "kohanimTitle",
+        "body": "kohanim"
+      },
+      {
+        "body": "kohanimChabad"
+      },
+      {
+        "body": "kohanimSefarad"
+      },
+      {
+        "body": "kohanim_more_than_two"
+      },
+      {
+        "body": "no_kohen"
+      },
+      {
+        "title": "b19Title",
+        "body": "b19"
+      },
+      {
+        "body": "b19Ashkenaz"
+      },
+      {
+        "body": "b19Chabad"
+      },
+      {
+        "body": "b19Sefarad"
+      },
+      {
+        "body": "klum"
+      },
+      {
+        "title": "yeshemTitle",
+        "body": "yeshem"
+      },
+      {
+        "title": "specialMizmorTitle",
+        "body": "roshHodeshSpecialMizmor"
+      },
+      {
+        "body": "passoverSpecialMizmor"
+      },
+      {
+        "body": "sukotSpecialMizmor"
+      },
+      {
+        "title": "avelTitle",
+        "body": "avel",
+        "nusach": "edot"
+      },
+      {
+        "body": "avelNoTahanun"
+      },
+      {
+        "title": "aleinuTitle",
+        "body": "aleinuAshkenaz",
+        "nusach": "ashkenaz"
+      },
+      {
+        "title": "afterAleinuChabadTitle",
+        "body": "afterAleinuChabad",
+        "nusach": "ashkenaz"
+      },
+      {
+        "title": "shirShelTitle",
+        "body": "sheboHayu",
+        "nusach": "ashkenaz"
+      },
+      {
+        "title": "specialMizmorTitle",
+        "body": "roshHodeshSpecialMizmor",
+        "nusach": "ashkenaz"
+      },
+      {
+        "title": "avelTitle",
+        "body": "avelNoTahanun",
+        "nusach": "ashkenaz"
+      },
+      {
+        "body": "avel",
+        "nusach": "ashkenaz"
+      },
+      {
+        "title": "kaveTitle",
+        "body": "kaveh"
+      },
+      {
+        "body": "kavehChabad",
+        "nusach": "chabad"
+      },
+      {
+        "body": "kavehSefarad",
+        "nusach": "sfarad"
+      },
+      {
+        "body": "kaveAshkenaz"
+      },
+      {
+        "title": "ktoretTitle",
+        "body": "ktoret"
+      },
+      {
+        "body": "ktoretSfaradAfterBoker",
+        "nusach": "sfarad"
+      },
+      {
+        "body": "threeTimes",
+        "nusach": "sfarad"
+      },
+      {
+        "body": "ktoretAshkenazAfterBoker",
+        "nusach": "ashkenaz"
+      },
+      {
+        "body": "ktoretAfterBokerChabad",
+        "nusach": "chabad"
+      },
+      {
+        "title": "tanaEliyahuTitle",
+        "body": "tanaEliyahu"
+      },
+      {
+        "body": "tanaEliyahuAshkenaz",
+        "nusach": "ashkenaz"
+      },
+      {
+        "body": "tanaEliyahuChabad",
+        "nusach": "chabad"
+      },
+      {
+        "body": "tanaEliyahuSefarad",
+        "nusach": "sfarad"
+      },
+      {
+        "title": "barechuTitle",
+        "body": "barechu"
+      },
+      {
+        "body": "chazanSays"
+      },
+      {
+        "body": "kahalSays"
+      },
+      {
+        "title": "aleinuTitle",
+        "body": "aleinu",
+        "nusach": "edot"
+      },
+      {
+        "body": "aleinuChabad",
+        "nusach": "chabad"
+      },
+      {
+        "body": "aleinuSefarad"
+      },
+      {
+        "title": "afterAleinuChabadTitle",
+        "body": "afterAleinuChabad",
+        "nusach": "chabad"
+      },
+      {
+        "title": "ledavidTitle",
+        "body": "ledavid"
+      },
+      {
+        "title": "tfilinRabeinuTam",
+        "body": "shma",
+        "nusach": "chabad"
+      },
+      {
+        "body": "whisper",
+        "nusach": "chabad"
+      },
+      {
+        "body": "klum",
+        "nusach": "chabad"
+      },
+      {
+        "body": "tfilinYad",
+        "nusach": "chabad"
+      },
+      {
+        "body": "tfilinRosh",
+        "nusach": "chabad"
+      },
+      {
+        "body": "klum",
+        "nusach": "chabad"
+      },
+      {
+        "title": "ikarimTitle",
+        "body": "kapara",
+        "nusach": "edot"
+      },
+      {
+        "body": "klum",
+        "nusach": "edot"
+      },
+      {
+        "body": "roshHodeshMusafChabad",
+        "nusach": "chabad"
+      },
+      {
+        "body": "klum"
+      },
+      {
+        "body": "kapara"
+      },
+      {
+        "title": "b17Title",
+        "body": "b17"
+      },
+      {
+        "body": "b17Ashkenaz"
+      },
+      {
+        "body": "b17Chabad"
+      },
+      {
+        "body": "b17Sefarad"
+      },
+      {
+        "body": "klum"
+      },
+      {
+        "title": "b19Title",
+        "body": "b19"
+      },
+      {
+        "body": "b19Ashkenaz"
+      },
+      {
+        "body": "b19Chabad"
+      },
+      {
+        "body": "b19Sefarad"
+      },
+      {
+        "body": "klum"
+      },
+      {
+        "title": "ledavidTitle",
+        "body": "ledavid"
+      }
+    ]
+  },
+  "shacharit": {
+    "generatorClass": "ShacharitGenerator",
+    "rows": [
+      {
+        "title": "avinuTitle",
+        "body": "avinuAshkenaz"
+      },
+      {
+        "body": "avinuTaanitAshkenaz"
+      },
+      {
+        "body": "avinuSefarad"
+      },
+      {
+        "body": "avinuTaanitSefarad"
+      },
+      {
+        "body": "avinu"
+      },
+      {
+        "body": "avinuTaanit"
+      }
+    ]
+  },
+  "shacharitOpening": {
+    "generatorClass": "ShacharitOpeningGenerator",
+    "rows": [
+      {
+        "title": "leshemTitle",
+        "body": "leshemShaharit",
+        "nusach": "edot"
+      },
+      {
+        "title": "pyutTitle",
+        "body": "adonChabad",
+        "nusach": "chabad"
+      },
+      {
+        "title": "akedaTitle",
+        "body": "akeda",
+        "nusach": "edot"
+      },
+      {
+        "body": "akedaBeforeChabad",
+        "nusach": "chabad"
+      },
+      {
+        "body": "akedaAfterChabad",
+        "nusach": "chabad"
+      },
+      {
+        "body": "akedaSefarad",
+        "nusach": "sfarad"
+      },
+      {
+        "body": "akedaAshkenaz"
+      },
+      {
+        "title": "eluDvarimTitle",
+        "body": "elu_dvarim",
+        "nusach": "edot"
+      },
+      {
+        "title": "leolamTitle",
+        "body": "leolam",
+        "nusach": "edot"
+      },
+      {
+        "body": "leolamChabad",
+        "nusach": "chabad"
+      },
+      {
+        "body": "whisper",
+        "nusach": "chabad"
+      },
+      {
+        "body": "leolamSefarad",
+        "nusach": "sfarad"
+      },
+      {
+        "body": "leolamAshkenaz"
+      },
+      {
+        "body": "whisper"
+      },
+      {
+        "title": "kyorTitle",
+        "body": "kior",
+        "nusach": "ashkenaz"
+      },
+      {
+        "title": "kyorTitle",
+        "body": "kior",
+        "nusach": "sfarad"
+      },
+      {
+        "title": "deshenTitle",
+        "body": "deshen"
+      },
+      {
+        "title": "tamidTitle",
+        "body": "yehiShelTamid",
+        "nusach": "edot"
+      },
+      {
+        "body": "tamidBeforeChabad",
+        "nusach": "chabad"
+      },
+      {
+        "body": "yehiShelTamidSefarad"
+      },
+      {
+        "body": "yehiBeforeTamidAshkenaz"
+      },
+      {
+        "title": "ktoretTitle",
+        "body": "ktoret",
+        "nusach": "edot"
+      },
+      {
+        "body": "ktoretChabad",
+        "nusach": "chabad"
+      },
+      {
+        "body": "threeTimes",
+        "nusach": "chabad"
+      },
+      {
+        "body": "klum",
+        "nusach": "chabad"
+      },
+      {
+        "body": "ktoretSefaradShacharit",
+        "nusach": "sfarad"
+      },
+      {
+        "body": "threeTimes",
+        "nusach": "sfarad"
+      },
+      {
+        "body": "ktoretAshkenaz"
+      },
+      {
+        "title": "abbayeTitle",
+        "body": "abbaye",
+        "nusach": "edot"
+      },
+      {
+        "body": "abbayeAshkenaz"
+      },
+      {
+        "title": "anaTitle",
+        "body": "anaAshkenaz"
+      },
+      {
+        "body": "ana"
+      },
+      {
+        "title": "korbanotTitle",
+        "body": "korbanot",
+        "nusach": "edot"
+      },
+      {
+        "body": "korbanotAshkenaz",
+        "nusach": "ashkenaz"
+      },
+      {
+        "body": "korbanotAshkenazRoshChodesh",
+        "nusach": "ashkenaz"
+      },
+      {
+        "body": "klum",
+        "nusach": "ashkenaz"
+      },
+      {
+        "body": "korbanotRoshHodeshSefarad"
+      },
+      {
+        "body": "korbanotSefarad"
+      },
+      {
+        "title": "kalTitle",
+        "body": "kal",
+        "nusach": "edot"
+      },
+      {
+        "body": "kalAshkenaz",
+        "nusach": "ashkenaz"
+      },
+      {
+        "body": "kalChabad",
+        "nusach": "chabad"
+      },
+      {
+        "body": "kalSefarad"
+      }
+    ]
+  },
+  "shacharitShachar": {
+    "generatorClass": "ShacharitShacharGenerator",
+    "rows": [
+      {
+        "title": "mode_title",
+        "body": "modehWoman",
+        "nusach": "edot"
+      },
+      {
+        "body": "modeh",
+        "nusach": "edot"
+      },
+      {
+        "body": "modeInstruction",
+        "nusach": "edot"
+      },
+      {
+        "body": "goodCustomMorning",
+        "nusach": "edot"
+      },
+      {
+        "body": "modehSefaradWoman",
+        "nusach": "sfarad"
+      },
+      {
+        "body": "modehSefarad",
+        "nusach": "sfarad"
+      },
+      {
+        "body": "modeInstruction",
+        "nusach": "sfarad"
+      },
+      {
+        "body": "modehAshkenazWoman",
+        "nusach": "ashkenaz"
+      },
+      {
+        "body": "modehAshkenaz",
+        "nusach": "ashkenaz"
+      },
+      {
+        "body": "modeInstruction",
+        "nusach": "ashkenaz"
+      },
+      {
+        "body": "goodCustomMorning",
+        "nusach": "ashkenaz"
+      },
+      {
+        "body": "modehChabadWoman",
+        "nusach": "chabad"
+      },
+      {
+        "body": "modehChabad",
+        "nusach": "chabad"
+      },
+      {
+        "body": "modeInstruction",
+        "nusach": "chabad"
+      },
+      {
+        "title": "zizitKatanTitle",
+        "body": "zizitKatanAshkenaz"
+      },
+      {
+        "body": "zizitKatanAshkenazInstruction"
+      },
+      {
+        "title": "netilaTitle",
+        "body": "netila",
+        "nusach": "edot"
+      },
+      {
+        "body": "netilaInstruction",
+        "nusach": "edot"
+      },
+      {
+        "body": "netilaChabad",
+        "nusach": "chabad"
+      },
+      {
+        "body": "netilaInstruction",
+        "nusach": "chabad"
+      },
+      {
+        "body": "netilaAshkenaz",
+        "nusach": "ashkenaz"
+      },
+      {
+        "body": "netilaInstruction",
+        "nusach": "ashkenaz"
+      },
+      {
+        "body": "netilaSefarad",
+        "nusach": "sfarad"
+      },
+      {
+        "body": "netilaInstruction",
+        "nusach": "sfarad"
+      },
+      {
+        "title": "bTorah_title",
+        "body": "bTorahSefarad",
+        "nusach": "sfarad"
+      },
+      {
+        "body": "bTorahAshkenaz",
+        "nusach": "ashkenaz"
+      },
+      {
+        "title": "bShahar_title",
+        "body": "bShahar",
+        "nusach": "edot"
+      },
+      {
+        "body": "bShaharChabad",
+        "nusach": "chabad"
+      },
+      {
+        "title": "bTorah_title",
+        "body": "bTorah",
+        "nusach": "edot"
+      },
+      {
+        "body": "bTorahChabad",
+        "nusach": "chabad"
+      },
+      {
+        "title": "patachTitle",
+        "body": "patah",
+        "nusach": "edot"
+      },
+      {
+        "title": "kadishDerTitle",
+        "body": "kadishDer",
+        "nusach": "edot"
+      },
+      {
+        "title": "zizitTitle",
+        "body": "zizit",
+        "nusach": "edot"
+      },
+      {
+        "body": "zizitChabad",
+        "nusach": "chabad"
+      },
+      {
+        "title": "tfilinTitle",
+        "body": "tefilin",
+        "nusach": "edot"
+      },
+      {
+        "body": "tefilinChabad",
+        "nusach": "chabad"
+      },
+      {
+        "title": "pyutTitle",
+        "body": "adonSefarad",
+        "nusach": "ashkenaz"
+      },
+      {
+        "title": "pyutTitle",
+        "body": "adonSefarad",
+        "nusach": "sfarad"
+      },
+      {
+        "title": "bShahar_title",
+        "body": "bShaharSefarad",
+        "nusach": "sfarad"
+      },
+      {
+        "body": "bShaharAshkenaz",
+        "nusach": "ashkenaz"
+      },
+      {
+        "body": "bShaharAshkenaz",
+        "nusach": "sfarad"
+      },
+      {
+        "title": "adonTitle",
+        "body": "adon",
+        "nusach": "edot"
+      },
+      {
+        "title": "hanaTitle",
+        "body": "hana",
+        "nusach": "edot"
+      }
+    ]
+  },
+  "shacharitShma": {
+    "generatorClass": "ShacharitShmaGenerator",
+    "rows": [
+      {
+        "title": "yotserTitle",
+        "body": "bShmaShahar1",
+        "nusach": "edot"
+      },
+      {
+        "body": "bShmaShahar1Ashkenaz",
+        "nusach": "ashkenaz"
+      },
+      {
+        "body": "bShmaShahar1Sefarad",
+        "nusach": "sfarad"
+      },
+      {
+        "body": "bShmaShahar1Chabad"
+      },
+      {
+        "title": "ahavatOlamTitle",
+        "body": "bShmaShahar2"
+      },
+      {
+        "body": "bShmaShahar2Ashkenaz"
+      },
+      {
+        "body": "bShmaShahar2Sefarad"
+      },
+      {
+        "body": "bShmaShahar2Chabad"
+      },
+      {
+        "body": "shmaZizit"
+      },
+      {
+        "title": "shmaZmanTitle",
+        "body": "elMelech"
+      },
+      {
+        "title": "yazivTitle",
+        "body": "bShmaShahar3"
+      },
+      {
+        "body": "bShmaShahar3Ashkenaz"
+      },
+      {
+        "body": "bShmaShahar3Sefarad"
+      },
+      {
+        "body": "bShmaShahar3Chabad"
+      },
+      {
+        "body": "standBefore"
+      },
+      {
+        "body": "zizitShmaEnd"
+      },
+      {
+        "title": "yeshemTitle",
+        "body": "yeshem"
+      },
+      {
+        "title": "avinuTitle",
+        "body": "avinuSefarad",
+        "nusach": "sfarad"
+      },
+      {
+        "body": "avinuAshkenaz",
+        "nusach": "ashkenaz"
+      },
+      {
+        "body": "avinu",
+        "nusach": "edot"
+      }
+    ]
+  },
+  "shacharitSof": {
+    "generatorClass": "ShacharitSofGenerator",
+    "rows": [
+      {
+        "title": "ashreiTitle",
+        "body": "ashreiChabad",
+        "nusach": "chabad"
+      },
+      {
+        "body": "ashrei"
+      },
+      {
+        "title": "yaanchaTitle",
+        "body": "yaancha"
+      },
+      {
+        "title": "uvaTitle",
+        "body": "whisper"
+      },
+      {
+        "title": "torahHahzaraTitle",
+        "body": "yehalelu",
+        "nusach": "edot"
+      },
+      {
+        "body": "yehaleluChabad",
+        "nusach": "chabad"
+      },
+      {
+        "body": "yehaleluSefarad",
+        "nusach": "sfarad"
+      },
+      {
+        "title": "aleinuTitle",
+        "body": "aleinuAshkenaz",
+        "nusach": "ashkenaz"
+      },
+      {
+        "title": "afterAleinuChabadTitle",
+        "body": "afterAleinuChabad",
+        "nusach": "ashkenaz"
+      },
+      {
+        "title": "specialMizmorTitle",
+        "body": "mizmorHanukat"
+      },
+      {
+        "body": "yazTamuz"
+      },
+      {
+        "body": "gdaliaAndAsaraTevet"
+      },
+      {
+        "body": "purinAndEster"
+      },
+      {
+        "body": "afterYomKipur"
+      },
+      {
+        "body": "klum"
+      },
+      {
+        "title": "avelTitle",
+        "body": "avelNoTahanun",
+        "nusach": "ashkenaz"
+      },
+      {
+        "body": "avel",
+        "nusach": "ashkenaz"
+      },
+      {
+        "title": "hoshienuTitle",
+        "body": "hoshienu"
+      },
+      {
+        "body": "hoshienuSefarad",
+        "nusach": "ashkenaz"
+      },
+      {
+        "title": "ledavidTitle",
+        "body": "ledavid",
+        "nusach": "ashkenaz"
+      },
+      {
+        "title": "kaveTitle",
+        "body": "kaveh",
+        "nusach": "ashkenaz"
+      },
+      {
+        "body": "kavehChabad"
+      },
+      {
+        "body": "kavehSefarad"
+      },
+      {
+        "body": "kaveAshkenaz",
+        "nusach": "ashkenaz"
+      },
+      {
+        "title": "ktoretTitle",
+        "body": "ktoret",
+        "nusach": "ashkenaz"
+      },
+      {
+        "body": "ktoretAshkenazAfterBoker",
+        "nusach": "ashkenaz"
+      },
+      {
+        "body": "ktoretAfterBokerChabad"
+      },
+      {
+        "title": "tanaEliyahuTitle",
+        "body": "tanaEliyahu",
+        "nusach": "ashkenaz"
+      },
+      {
+        "body": "tanaEliyahuAshkenaz",
+        "nusach": "ashkenaz"
+      },
+      {
+        "body": "tanaEliyahuChabad"
+      },
+      {
+        "body": "tanaEliyahuSefarad"
+      },
+      {
+        "title": "aleinuTitle",
+        "body": "aleinu"
+      },
+      {
+        "body": "aleinuChabad"
+      },
+      {
+        "body": "aleinuSefarad",
+        "nusach": "ashkenaz"
+      },
+      {
+        "title": "afterAleinuChabadTitle",
+        "body": "afterAleinuChabad"
+      },
+      {
+        "title": "ledavidTitle",
+        "body": "ledavid",
+        "nusach": "ashkenaz"
+      },
+      {
+        "title": "tfilinRabeinuTam",
+        "body": "shma",
+        "nusach": "ashkenaz"
+      },
+      {
+        "body": "whisper",
+        "nusach": "ashkenaz"
+      },
+      {
+        "body": "tfilinYad",
+        "nusach": "ashkenaz"
+      },
+      {
+        "body": "tfilinRosh",
+        "nusach": "ashkenaz"
+      },
+      {
+        "body": "klum",
+        "nusach": "ashkenaz"
+      },
+      {
+        "title": "tfilaLedavidTitle",
+        "body": "tfilaLedavid"
+      },
+      {
+        "title": "betYaakovTitle",
+        "body": "betYaakov"
+      },
+      {
+        "title": "avelTitle",
+        "body": "avel",
+        "nusach": "edot"
+      },
+      {
+        "title": "ledavidTitle",
+        "body": "ledavid"
+      },
+      {
+        "title": "ledavidTitle",
+        "body": "ledavid"
+      },
+      {
+        "title": "tfilinRabeinuTam",
+        "body": "shma",
+        "nusach": "chabad"
+      },
+      {
+        "body": "whisper",
+        "nusach": "chabad"
+      },
+      {
+        "body": "tfilinYad",
+        "nusach": "chabad"
+      },
+      {
+        "body": "tfilinRosh",
+        "nusach": "chabad"
+      },
+      {
+        "body": "klum",
+        "nusach": "chabad"
+      }
+    ]
+  },
+  "shacharitTahanun": {
+    "generatorClass": "ShacharitTahanunGenerator",
+    "rows": [
+      {
+        "title": "avinuTitle",
+        "body": "avinu"
+      },
+      {
+        "body": "avinuTaanit"
+      },
+      {
+        "title": "tahanunTitle",
+        "body": "tahanun",
+        "nusach": "edot"
+      },
+      {
+        "body": "tahanunSefarad",
+        "nusach": "sfarad"
+      },
+      {
+        "body": "tahanunSefarad",
+        "nusach": "sfarad"
+      },
+      {
+        "body": "yagSefarad",
+        "nusach": "sfarad"
+      },
+      {
+        "title": "yagTitle",
+        "body": "yagAshkenaz",
+        "nusach": "ashkenaz"
+      },
+      {
+        "body": "tahanunChabad",
+        "nusach": "chabad"
+      },
+      {
+        "title": "avinuTitle",
+        "body": "avinuSefarad",
+        "nusach": "sfarad"
+      },
+      {
+        "body": "avinuTaanitSefarad",
+        "nusach": "sfarad"
+      },
+      {
+        "body": "avinuAshkenaz",
+        "nusach": "ashkenaz"
+      },
+      {
+        "body": "avinuTaanitAshkenaz",
+        "nusach": "ashkenaz"
+      },
+      {
+        "title": "avinuTitle",
+        "body": "avinuTaanitSefarad",
+        "nusach": "sfarad"
+      },
+      {
+        "body": "avinuTaanitAshkenaz",
+        "nusach": "ashkenaz"
+      },
+      {
+        "title": "avinuTitle",
+        "body": "avinuTaanitSefarad",
+        "nusach": "sfarad"
+      },
+      {
+        "body": "avinuTaanitAshkenaz",
+        "nusach": "ashkenaz"
+      },
+      {
+        "title": "tahanun25Title",
+        "body": "tahanun25Ashkenaz",
+        "nusach": "ashkenaz"
+      },
+      {
+        "body": "tahanun25Sefarad",
+        "nusach": "sfarad"
+      },
+      {
+        "body": "tahanun25Chabad",
+        "nusach": "chabad"
+      },
+      {
+        "title": "tahanunTitle",
+        "body": "tahanunSefarad",
+        "nusach": "sfarad"
+      },
+      {
+        "body": "tahanunSefarad",
+        "nusach": "sfarad"
+      },
+      {
+        "body": "yagSefarad",
+        "nusach": "sfarad"
+      },
+      {
+        "body": "tahanunAshkenaz",
+        "nusach": "ashkenaz"
+      },
+      {
+        "body": "tahanunChabad",
+        "nusach": "chabad"
+      },
+      {
+        "title": "tahanun25Title",
+        "body": "tahanun25",
+        "nusach": "edot"
+      },
+      {
+        "body": "tahanun25Ashkenaz",
+        "nusach": "ashkenaz"
+      },
+      {
+        "body": "tahanun25Sefarad",
+        "nusach": "sfarad"
+      },
+      {
+        "body": "tahanun25Chabad",
+        "nusach": "chabad"
+      },
+      {
+        "title": "tahanunTitle",
+        "body": "tahanunAshkenaz",
+        "nusach": "ashkenaz"
+      },
+      {
+        "title": "avinuTitle",
+        "body": "avinuChabad"
+      },
+      {
+        "body": "tahanunAvinuChabad"
+      },
+      {
+        "title": "klum",
+        "body": "tahanunSofChabad"
+      },
+      {
+        "title": "klum",
+        "body": "tahanunAvinuChabad",
+        "nusach": "chabad"
+      },
+      {
+        "title": "klum",
+        "body": "tahanunSofAshkenaz",
+        "nusach": "ashkenaz"
+      },
+      {
+        "body": "tahanunSofSfarad",
+        "nusach": "sfarad"
+      }
+    ]
+  },
+  "shacharitZimra": {
+    "generatorClass": "ShacharitZimraGenerator",
+    "rows": [
+      {
+        "title": "zimra",
+        "body": "mizmorHanukatAshkenaz",
+        "nusach": "ashkenaz"
+      },
+      {
+        "title": "baruchSheamrTitle",
+        "body": "baruchSheamarAshkenaz",
+        "nusach": "ashkenaz"
+      },
+      {
+        "title": "hoduTitle",
+        "body": "hoduAshkenaz",
+        "nusach": "ashkenaz"
+      },
+      {
+        "title": "hoduTitle",
+        "body": "hoduSefarad"
+      },
+      {
+        "body": "hodu"
+      },
+      {
+        "body": "hashemMelechAseret"
+      },
+      {
+        "body": "hodu"
+      },
+      {
+        "body": "klum"
+      },
+      {
+        "title": "menora",
+        "body": "klum",
+        "nusach": "edot"
+      },
+      {
+        "title": "menora",
+        "body": "klum",
+        "nusach": "sfarad"
+      },
+      {
+        "title": "zmirot",
+        "body": "zimraYomTov"
+      },
+      {
+        "title": "baruchSheamrTitle",
+        "body": "baruchSheamar",
+        "nusach": "edot"
+      },
+      {
+        "body": "baruchSheamarSefarad",
+        "nusach": "sfarad"
+      },
+      {
+        "body": "baruchSheamarChabad",
+        "nusach": "chabad"
+      },
+      {
+        "title": "mizmorTodaTitle",
+        "body": "mizmorTodah"
+      },
+      {
+        "title": "zmirot",
+        "body": "zimraYomTov"
+      },
+      {
+        "title": "yeheKevodTitle",
+        "body": "yeheKevod"
+      },
+      {
+        "title": "ashreiTitle",
+        "body": "ashreiChabad",
+        "nusach": "chabad"
+      },
+      {
+        "body": "ashrei"
+      },
+      {
+        "title": "hal1Title",
+        "body": "hal1"
+      },
+      {
+        "title": "hal2Title",
+        "body": "hal2"
+      },
+      {
+        "title": "hal3Title",
+        "body": "hal3"
+      },
+      {
+        "title": "hal4Title",
+        "body": "hal4"
+      },
+      {
+        "title": "hal5Title",
+        "body": "hal5"
+      },
+      {
+        "title": "davidTitle",
+        "body": "david",
+        "nusach": "edot"
+      },
+      {
+        "body": "davidAshkenaz",
+        "nusach": "ashkenaz"
+      },
+      {
+        "body": "davidSefarad"
+      },
+      {
+        "title": "azYashirTitle",
+        "body": "azYashir"
+      },
+      {
+        "title": "nishmatTitle",
+        "body": "nishmatSfarad",
+        "nusach": "sfarad"
+      },
+      {
+        "body": "nishmatAshkenaz",
+        "nusach": "ashkenaz"
+      },
+      {
+        "title": "yishtabachTitle",
+        "body": "yistabach",
+        "nusach": "edot"
+      },
+      {
+        "body": "yistabachAshkenaz",
+        "nusach": "ashkenaz"
+      },
+      {
+        "body": "yistabachSefarad",
+        "nusach": "sfarad"
+      },
+      {
+        "body": "yishtabachChabad"
+      },
+      {
+        "title": "mimakimTitle",
+        "body": "shirAseret"
+      }
+    ]
+  },
+  "amida": {
+    "generatorClass": "AmidaGenerator",
+    "rows": [
+      {
+        "title": "amida",
+        "body": "sfataySefarad"
+      },
+      {
+        "body": "sfatay"
+      },
+      {
+        "title": "avotTitle",
+        "body": "klum"
+      },
+      {
+        "body": "AvotAseret",
+        "nusach": "edot"
+      },
+      {
+        "body": "AvotAseretSefarad"
+      },
+      {
+        "title": "b2Title",
+        "body": "b2Aseret",
+        "nusach": "edot"
+      },
+      {
+        "body": "b2AseretAshkenaz",
+        "nusach": "ashkenaz"
+      },
+      {
+        "body": "b2AseretSefarad"
+      },
+      {
+        "body": "b2WinterStarts"
+      },
+      {
+        "body": "b2Winter"
+      },
+      {
+        "body": "b2SummerStarts"
+      },
+      {
+        "title": "kdushaTitle",
+        "body": "kdusha",
+        "nusach": "edot"
+      },
+      {
+        "body": "kahalSays",
+        "nusach": "ashkenaz"
+      },
+      {
+        "body": "chazanSays",
+        "nusach": "ashkenaz"
+      },
+      {
+        "body": "b3Aseret",
+        "nusach": "ashkenaz"
+      },
+      {
+        "body": "kahalSays",
+        "nusach": "ashkenaz"
+      },
+      {
+        "body": "chazanSays",
+        "nusach": "ashkenaz"
+      },
+      {
+        "body": "b3Sof",
+        "nusach": "ashkenaz"
+      },
+      {
+        "body": "kdushaSefarad"
+      },
+      {
+        "title": "b5Title",
+        "body": "f7904b5",
+        "nusach": "edot"
+      },
+      {
+        "body": "b5chabad",
+        "nusach": "chabad"
+      },
+      {
+        "body": "b5Sefarad"
+      },
+      {
+        "title": "b6Title",
+        "body": "f7905b6",
+        "nusach": "edot"
+      },
+      {
+        "body": "b6Ashkenaz",
+        "nusach": "ashkenaz"
+      },
+      {
+        "body": "b6Chabad",
+        "nusach": "chabad"
+      },
+      {
+        "body": "b6Sefarad"
+      },
+      {
+        "title": "b7Title",
+        "body": "f7906b7",
+        "nusach": "edot"
+      },
+      {
+        "body": "b7Ashkenaz",
+        "nusach": "ashkenaz"
+      },
+      {
+        "body": "b7Chabad",
+        "nusach": "chabad"
+      },
+      {
+        "body": "b7Sefarad"
+      },
+      {
+        "title": "anenuTitle",
+        "body": "anenuChazan",
+        "nusach": "edot"
+      },
+      {
+        "body": "anenuAshkenazChazan",
+        "nusach": "ashkenaz"
+      },
+      {
+        "body": "anenuChabadChazan",
+        "nusach": "chabad"
+      },
+      {
+        "body": "anenuSefaradChazan"
+      },
+      {
+        "title": "b10Title",
+        "body": "b10",
+        "nusach": "edot"
+      },
+      {
+        "body": "b10Ashkenaz",
+        "nusach": "ashkenaz"
+      },
+      {
+        "body": "b10Chabad",
+        "nusach": "chabad"
+      },
+      {
+        "body": "b10Sefarad"
+      },
+      {
+        "title": "b12Title",
+        "body": "b12",
+        "nusach": "edot"
+      },
+      {
+        "body": "b12Ashkenaz",
+        "nusach": "ashkenaz"
+      },
+      {
+        "body": "b12Chabad",
+        "nusach": "chabad"
+      },
+      {
+        "body": "b12Sefarad"
+      },
+      {
+        "title": "b13Title",
+        "body": "b13",
+        "nusach": "edot"
+      },
+      {
+        "body": "b13Ashkenaz",
+        "nusach": "ashkenaz"
+      },
+      {
+        "body": "b13Chabad",
+        "nusach": "chabad"
+      },
+      {
+        "body": "b13Sefarad"
+      },
+      {
+        "title": "b14Title",
+        "body": "b14Nachem",
+        "nusach": "edot"
+      },
+      {
+        "body": "b14NachemChabad",
+        "nusach": "chabad"
+      },
+      {
+        "body": "b14NachemAshkenaz",
+        "nusach": "ashkenaz"
+      },
+      {
+        "body": "b14NachemSefarad"
+      },
+      {
+        "body": "b14",
+        "nusach": "edot"
+      },
+      {
+        "body": "b14Ashkenaz",
+        "nusach": "ashkenaz"
+      },
+      {
+        "body": "b14Chabad",
+        "nusach": "chabad"
+      },
+      {
+        "body": "b14Sefarad"
+      },
+      {
+        "title": "b15Title",
+        "body": "b15",
+        "nusach": "edot"
+      },
+      {
+        "body": "b15Sefarad"
+      },
+      {
+        "title": "b18Title",
+        "body": "b18",
+        "nusach": "edot"
+      },
+      {
+        "body": "b18Ashkenaz",
+        "nusach": "ashkenaz"
+      },
+      {
+        "body": "b18Chabad",
+        "nusach": "chabad"
+      },
+      {
+        "body": "b18Sefarad"
+      },
+      {
+        "title": "modimDrabnanTitle",
+        "body": "modimDer",
+        "nusach": "edot"
+      },
+      {
+        "body": "modimDerChabad",
+        "nusach": "chabad"
+      },
+      {
+        "body": "modimDerSefarad"
+      },
+      {
+        "title": "kohanimTitle",
+        "body": "kohanim"
+      },
+      {
+        "body": "kohanimChabad"
+      },
+      {
+        "body": "kohanimSefarad"
+      },
+      {
+        "body": "kohanim_more_than_two"
+      },
+      {
+        "body": "no_kohen"
+      },
+      {
+        "title": "b19Title",
+        "body": "b19Aseret"
+      },
+      {
+        "body": "b19AseretChabad"
+      },
+      {
+        "body": "b19AseretSefarad"
+      },
+      {
+        "body": "b19AseretAshkenaz"
+      },
+      {
+        "title": "shlomRav",
+        "body": "b19AseretSefarad"
+      },
+      {
+        "title": "shirLama_title",
+        "body": "shirLama",
+        "nusach": "edot"
+      },
+      {
+        "title": "amidaSofTitle",
+        "body": "hashalom"
+      },
+      {
+        "body": "shalom"
+      }
+    ]
+  }
+}
